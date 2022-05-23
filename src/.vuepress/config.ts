@@ -42,17 +42,7 @@ module.exports = {
 
     plugins: [
         '@vuepress/plugin-shiki',
-        ['@vuepress/plugin-docsearch', {
-            apiKey: '2ac7075a13d42995a61e140eb156e195',
-            indexName: 'meson',
-            appId: 'LH7YIT2HEV',
-            siteId: 'c2d8f900-ccff-4f7d-8d9c-92827f5123f3',
-            branch: 'main',
-            selector: 'div#search',
-        }],
-        ['@vuepress/plugin-google-analytics', {
-            id: 'G-SEH5LFSBRP',
-        }],
+        '@vuepress/plugin-search',
     ],
 
     themeConfig: {
