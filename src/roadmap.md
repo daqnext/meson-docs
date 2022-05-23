@@ -55,4 +55,7 @@
             <h4>Battle for Web3: Infrastructure & Entry</h4>
         </el-card>
     </el-timeline-item>
+    <el-timeline-item timestamp="..." placement="top" :hollow="true" type="info"></el-timeline-item>
+    <el-timeline-item timestamp="..." placement="top" :hollow="true" type="success"></el-timeline-item>
+    <el-timeline-item timestamp="..." placement="top" :hollow="true" type="primary"></el-timeline-item>
 </el-timeline>
