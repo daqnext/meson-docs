@@ -22,33 +22,51 @@
 
 ## Events
 
+### BUIDLCON / June 10, 2022
+
+![](./images/community/events/buidlcon-2022.jpeg)
+
+[#BUIDLCON](https://buidlcon.dev/) | [Twitter](https://twitter.com/BUIDLCON_/status/1524344377140670464)
+
+### Spotlight of Web3.0 | Arweave Infrastructure & Future Stars / May 26, 2022
+
+![](./images/community/events/arweave-infrastructure-future-stars.jpeg)
+
+[Twitter](https://twitter.com/huobi_incubator/status/1529654579683643394) | [Twitter](https://twitter.com/huobi_incubator/status/1529397537513558016)
+
+### ETH Shanghai Hackathon 2022 / May 20, 2022
+
+![](./images/community/events/ethshanghai2022.jpeg)
+
+[Hackathon](https://hackathon.ethshanghai.org/) | [Gitcoin](https://gitcoin.co/hackathon/ethshanghai) | [Twitter](https://twitter.com/ETHShanghai2022/status/1526172551990300673)
+
 ### DeCompression Happy Hour / April 22, 2022
 
-![](./images/community/events/decompression-happy-hour.png)
+![DeCompression Happy Hour](./images/community/events/decompression-happy-hour.png)
 
 [Eventbrite](https://www.eventbrite.com/e/decompression-happy-hour-registration-320601717367) | [Twitter](https://twitter.com/MysteriumNet/status/1516363315773153286)
 
 ### Nym launch afterparty / Apr 14, 2022
 
-![](./images/community/events/nym-launch-afterparty.png)
+![Nym launch afterparty](./images/community/events/nym-launch-afterparty.png)
 
 [Eventbrite](https://www.eventbrite.co.uk/e/nym-launch-afterparty-tickets-319667041727) | [Twitter](https://twitter.com/nymproject/status/1514666306485825544)
 
 ### Web3 Breakfast Networking / Feb 17, 2022
 
-![](./images/community/events/web3-breakfast-networking.jpeg)
+![Web3 Breakfast Networking](./images/community/events/web3-breakfast-networking.jpeg)
 
 [Eventbrite](https://www.eventbrite.com/e/web3-breakfast-networking-tickets-269775274107) | [Twitter](https://twitter.com/realMaskNetwork/status/1493805713939787777)
 
 ### DWeb Meetup / Nov 5, 2021
 
-![](./images/community/events/dweb-meetup.jpeg)
+![DWeb Meetup](./images/community/events/dweb-meetup.jpeg)
 
 [Eventbrite](https://www.eventbrite.com/e/dweb-meetup-nov-2021-centering-respect-trust-and-equity-in-the-dweb-tickets-199517731907) | [Twitter](https://twitter.com/GETDWeb/status/1455345502212349964)
 
 ### Web3.0 DEF CON / Aug 8, 2021
 
-![](./images/community/events/web3-def-con.jpeg)
+![Web3.0 DEF CON](./images/community/events/web3-def-con.jpeg)
 
 [Eventbrite](https://www.eventbrite.com/e/web-30-def-con-after-mixer-on-crypto-privacy-tickets-166225863031) | [Twitter](https://twitter.com/DoraFactory/status/1424641986833784832)
 
