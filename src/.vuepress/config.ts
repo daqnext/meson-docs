@@ -64,8 +64,12 @@ module.exports = {
                 link: '/',
             },
             {
+                text: 'Changelog',
+                link: '/changelog/',
+            },
+            {
                 text: 'Whitepaper',
-                link: 'https://assets.meson.network:10443/static/docs/Meson-Network-v1.6.pdf'
+                link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
             },
             {
                 text: 'Blog',
@@ -102,6 +106,15 @@ module.exports = {
             },
         ],
         sidebar: {
+            '/changelog/': [
+                {
+                    text: 'Changelog',
+                    children: [
+                        '/changelog/README.md',
+                        '/changelog/02-18-2022.md',
+                    ],
+                },
+            ],
             '/': [
                 {
                     text: '👋 Guide',
