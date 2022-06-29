@@ -67,6 +67,10 @@ module.exports = {
                 link: '/',
             },
             {
+                text: 'Changelog',
+                link: '/changelog/',
+            },
+            {
                 text: 'Whitepaper',
                 link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
             },
