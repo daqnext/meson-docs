@@ -52,7 +52,7 @@ A top-level network on the Internet. There are 16 Tier 1 networks worldwide. In 
 
 Known as "settlement-free peering," Tier 1 networks are private networks that allow traffic from other Tier 1 networks to transit their backbones without a fee. See peering and IXP.
 
-![](./images/glossary/Internet_Connectivity_Distribution_%26_Core.svg)
+![](./images/glossary/internet_connectivity_distribution_core.svg)
 
 #### Tier 2 and Tier 3 Networks
 
