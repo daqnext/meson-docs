@@ -22,6 +22,12 @@
 
 ## Events
 
+### In New York / June 21, 2022
+
+![](./images/community/events/zonffpartners-bca-nftnyc.jpeg)
+
+[Twitter](https://twitter.com/ZonffPartners/status/1537359089159884801) | [YouTube](https://www.youtube.com/watch?v=YQS1C2ey5g0) | [Twitter](https://twitter.com/ZonffPartners/status/1539682340464893952) 
+
 ### BUIDLCON / June 10, 2022
 
 ![](./images/community/events/buidlcon-2022.jpeg)

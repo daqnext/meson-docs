@@ -77,6 +77,66 @@ The functions of transfer for Meson Test Tokens on Ethereum are locked. After th
 
 For more details, please refer to [Ethereum Contract Source Code for Meson Test Tokens](https://etherscan.io/address/0x318b13467537f58890002847fe71eb2a74b6a5a5#code).
 
+## Wget meson_cdn-linux-amd64.tar.gz --no-check-certificate error?
+
+![](./images/faq/wget-error.png)
+
+Install ca-certificates package
+
+```bash
+sudo yum update -y && yum install -y ca-certificates -y
+```
+
+- [2.8 HTTPS (SSL/TLS) Options - Documentation](https://www.gnu.org/software/wget/manual/html_node/HTTPS-_0028SSL_002fTLS_0029-Options.html)
+
+## How to changing RedHat SELinux states?
+
+SELinux can run in one of three modes: enforcing, permissive, or disabled.
+
+***Enforcing*** mode is the default, and recommended, mode of operation; in enforcing mode SELinux operates normally, enforcing the loaded security policy on the entire system.
+
+In ***Permissive*** mode, the system acts as if SELinux is enforcing the loaded security policy, including labeling objects and emitting access denial entries in the logs, but it does not actually deny any operations. While not recommended for production systems, permissive mode can be helpful for SELinux policy development and debugging.
+
+***Disabled*** mode is strongly discouraged; not only does the system avoid enforcing the SELinux policy, it also avoids labeling any persistent objects such as files, making it difficult to enable SELinux in the future.
+
+Open the `/etc/selinux/config` file in a text editor of your choice, for example:
+
+```bash
+vi /etc/selinux/config
+```
+
+Configure the `SELINUX=permissive` option:
+
+```bash
+# This file controls the state of SELinux on the system.
+# SELINUX= can take one of these three values:
+#       enforcing - SELinux security policy is enforced.
+#       permissive - SELinux prints warnings instead of enforcing.
+#       disabled - No SELinux policy is loaded.
+SELINUX=permissive
+# SELINUXTYPE= can take one of these two values:
+#       targeted - Targeted processes are protected,
+#       mls - Multi Level Security protection.
+SELINUXTYPE=targeted
+```
+
+Restart the system:
+
+```bash
+reboot
+```
+
+After the system restarts, confirm that the `getenforce` command returns `Permissive`:
+
+```bash
+$ getenforce
+Permissive
+```
+
+- [🪄 Changing SELinux states and modes - Red Hat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/changing-selinux-states-and-modes_using-selinux)
+- [SELinux states and modes - Red Hat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/getting-started-with-selinux_using-selinux) 
+- [Ensuring the required state of selinux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/assembly_configuring-system-security_configuring-basic-system-settings#proc_ensuring-the-required-state-of-selinux_assembly_configuring-system-security)
+
 ## How to Forward Ports on Your Router?
 
 This step is important for your own personal computer to run Meson.
