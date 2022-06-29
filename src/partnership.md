@@ -1,4 +1,4 @@
-# Thanks
+# Partnership
 
 ## Backers
 
@@ -38,6 +38,13 @@
     <span><img alt="Shixing Mao" src="./images/sponsors/shixingmao.png"></span>
 </p>
 
+## Community
+
+<p class="grid">
+    <span><img alt="Bitppy" src="./images/sponsors/community/bitppy.svg"></span>
+    <span><img alt="TestNetRun" src="./images/sponsors/community/testnetrun.svg"></span>
+</p>
+
 ## Partners
 
 <p class="grid">
@@ -50,3 +57,9 @@
     <span><img alt="Koii" src="./images/sponsors/partners/koii.svg"></span>
     <span><img alt="ShowMe" src="./images/sponsors/partners/showme.svg"></span>
 </p>
+
+## Nodes
+
+>**Infra Marketplace Built by People**.We believe the design principle behind blockchain is to make the rights to everyone and not be governed by the giants. That’s why we practice the protocol model to build the marketplace and take it to the Raspberry Pi, Xbox, Playstation, and IoT as well.
+
+

@@ -1,155 +1,163 @@
-# Run Nodes
+# Run Meson Node 101
 
-## Commands Reference
+[[toc]]
 
-<CodeGroup>
-  <CodeGroupItem title="Linux x64" active>
+## Deploy Requirements
 
-```bash
-wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.2/meson-linux-amd64.tar.gz'    # download the terminal package
-tar -zxf meson-linux-amd64.tar.gz         # unzip the package
-cd ./meson-linux-amd64                    # install the app as service
-sudo ./meson service-install              # input your token, port and space provide
-sudo ./meson service-start                # start the app
-sudo ./meson service-status               # wait about 1 minutes and check status
-sudo ./meson service-stop                 # to stop meson network service
-sudo ./meson service-remove               # to remove meson network application
-```
+- A Static(Public) IP or A DHCP Reservation
+- Opening the port of the firewall (default: 443, 10443, 10444)
+- Providing enough Storage (default minimum requirements: 20G)
 
-  </CodeGroupItem>
+## Register
 
-  <CodeGroupItem title="Linux x86">
+[https://dashboard.meson.network/register](https://dashboard.meson.network/register)
 
-```bash
-wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.2/meson-linux-386.tar.gz'    # download the terminal package
-tar -zxf meson-linux-386.tar.gz           # unzip the package
-cd ./meson-linux-386                      # install the app as service
-sudo ./meson service-install              # input your token, port and space provide
-sudo ./meson service-start                # start the app
-sudo ./meson service-status               # wait about 1 minutes and check status
-sudo ./meson service-stop                 # to stop meson network service
-sudo ./meson service-remove               # to remove meson network application
-```
+![](./images/run-meson-node-01.png)
 
-  </CodeGroupItem>
+Click the button “Nodes” and you can find out your token and installation tutorial in this page
 
-  <CodeGroupItem title="Mac">
+![](./images/run-meson-node-02.png)
+
+## How to Install Meson on **Linux ?**
+
+### 1.Download & Install
 
 ```bash
-wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.2/meson-darwin-amd64.tar.gz'    # download the terminal package
-tar -zxf meson-darwin-amd64.tar.gz        # unzip the package
-cd ./meson-darwin-amd64                   # install the app as service
-./meson service-install                   # input your token, port and space provide
-./meson service-start                     # start the app
-./meson service-status                    # wait about 1 minutes and check status
-./meson service-stop                      # to stop meson network service
-./meson service-remove                    # to remove meson network application
+wget 'https://staticassets.meson.network/public/meson_cdn/v3.1.9/meson_cdn-linux-amd64.tar.gz' && tar -zxf meson_cdn-linux-amd64.tar.gz && rm -f meson_cdn-linux-amd64.tar.gz && cd ./meson_cdn-linux-amd64 && sudo ./service install meson_cdn
 ```
 
-  </CodeGroupItem>
+::: tip
+If you get notifications like "-bash: wget: command not found" telling that you can't use this command, please install wget by using **command** first.
+:::
 
-  <CodeGroupItem title="Win x64">
+**Ubuntu / Debian:** 
 
 ```bash
-wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.2/meson-windows-amd64.zip'    # download the terminal package
-unzip meson-windows-amd64.zip             # unzip the package
-cd ./meson-windows-amd64 && ./meson.exe   # run the app
+sudo apt-get update -y && sudo apt-get install wget -y
 ```
 
-  </CodeGroupItem>
-
-  <CodeGroupItem title="Win x86">
+**CentOS / Fedora:**
 
 ```bash
-wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.2/meson-windows-386.zip'    # download the terminal package
-unzip meson-windows-386.zip              # unzip the package
-cd ./meson-windows-386 && ./meson.exe    # run the app
+sudo yum update -y && sudo yum install wget -y
 ```
 
-  </CodeGroupItem>
-  
-</CodeGroup>
-
-## Tutorial
-
-### Download and Install
-
-(Currently [12/29/2021], the version is 2.5.2, please check and download the latest version) (You can always find the latest command here)
+console output:
 
 ```bash
-wget 'https://coldcdn.com/api/cdn/f2cobx/terminal/v2.5.2/meson-linux-amd64.tar.gz'
+[ec2-user@ip-172-31-43-179 ~]$ wget 'https://staticassets.meson.network/public/meson_cdn/v3.1.9/meson_cdn-linux-amd64.tar.gz' && tar -zxf meson_cdn-linux-amd64.tar.gz && rm -f meson_cdn-linux-amd64.tar.gz && cd ./meson_cdn-linux-amd64 && sudo ./service install meson_cdn
+--2022-06-18 07:48:10--  https://staticassets.meson.network/public/meson_cdn/v3.1.9/meson_cdn-linux-amd64.tar.gz
+Resolving staticassets.meson.network (staticassets.meson.network)... 143.244.60.109
+Connecting to staticassets.meson.network (staticassets.meson.network)|143.244.60.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48735663 (46M) [application/x-gzip]
+Saving to: 'meson_cdn-linux-amd64.tar.gz'
+
+100%[======================================>] 48,735,663  81.2MB/s   in 0.6s   
+
+2022-06-18 07:48:11 (81.2 MB/s) - 'meson_cdn-linux-amd64.tar.gz' saved [48735663/48735663]
+
+2022-06-18 07:48:12 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
+2022-06-18 07:48:12 [INFO] service installed
 ```
 
-If you get notifications like "-bash: wget: command not found" telling that you can't use this command, please install wget by using "sudo apt-get install wget" first. If the above link is abnormal, please try the backup link
+### 2.Set token and config
 
 ```bash
-wget 'https://assets.meson.network:10443/static/terminal/v2.5.2/meson-linux-amd64.tar.gz'
+sudo ./meson_cdn config set --token=your token --https_port=443 --cache.size=30
 ```
 
-### Unzip this package
+console output:
 
 ```bash
-tar -zxf meson-linux-amd64.tar.gz
+[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./meson_cdn config set --token=your token --https_port=443
+2022-06-18 07:59:13 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 ```
 
-### Install Meson as a service
+We recommend enabling TCP Ports 443, 10443, 10444  in both directions in your server/router. Check your Router's & Cloud's  instructions on how to open ports 443, 10443, 10444.
+
+To get started with port forwarding, check out [https://portforward.com](https://portforward.com/) .
+
+If you want to change the default config, you can use these parameters.
+
+Param List:
 
 ```bash
-./meson-linux-amd64 && sudo ./meson service-install
+-token=your token              # you can find out your token in nodes page
+-https_port=443                # default is 443, support for custom server ports
+-cache_size=30                 # at least 20, default is 30, support for custom server ports
+-cache_folder=xxxx             # string, cache folder path, could be an absolute path
 ```
 
-Token, Port, and Space are parameter you need to input here:
+Example:
 
-- Token —— from https://meson.network/terminals
-- Port —— Please open a port (default:19091) from the firewall
-- Space —— At least please offer 40+GB space for Meson.
-
-High Space and Bandwidth for High Earning. please check [miningrules](https://meson.network/miningrules) for details.
-
-### Start the service of Meson
+In the example, I changed the default port to 520, cache size to 20G.
 
 ```bash
-sudo ./meson service-start
+sudo ./meson_cdn config set --token=your token --https_port=520 --cache.size=20 && sudo ./service restart meson_cdn
 ```
 
-### Please remember to check if it runs well
+After you modify the config, please restart your node with command  `sudo ./service restart meson_cdn` .
 
-Please wait about 1 minute after the above one.
+### 3. Start Service
+
+Start the service of Meson Node.
 
 ```bash
-sudo ./meson service-status
+sudo ./service start meson_cdn
 ```
 
-After 2-3 minutes, you will have a new terminal record at [terminals](https://meson.network/terminals). Other Commands For Your Information
-
-If the above commands(4 - 5) fail, you could just use
+console output:
 
 ```bash
-./meson
+[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./service start meson_cdn
+2022-06-18 07:59:57 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
+2022-06-18 07:59:57 [INFO] service started
 ```
 
-or " nohup ./meson & " to run it in the background.
+After 2-3 minutes, you will have a new terminal record at **terminals open in new node** .
 
-Also, there are these commands to try
+![](./images/run-meson-node-03.png)
+
+### 4.Check Node Running Status
 
 ```bash
-sudo ./meson service-stop                #To Stop Meson Network Service
-sudo ./meson service-remove              #To Remove Meson Network Application
+sudo ./service status meson_cdn
 ```
-You could just move the folder of Meson to change the install position.
 
-## Common Attentions
+console output:
 
-How to Change the Port? Please modify config.txt at the folder of Meson.
+```bash
+[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./service status meson_cdn
+2022-06-18 09:31:39 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
+2022-06-18 09:31:39 [INFO] service status: RUNNIN
+```
 
-How to Change the Space? Please modify config.txt at the folder of Meson. And then restart Meson by using "sudo ./meson service-stop" and "sudo ./meson service-start".
+### 5.Stop & Remove
 
-If you want to try personal computers... It's much recommended to use servers rather than personal computers which are easier and more stable. But if you still want to try to mine on your own PC at home with the network router...
+```bash
+sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
+```
 
-## Please make sure that
+console output:
 
-You truly have an unshared bandwidth and a direct public IP.
+```bash
+[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
+2022-06-18 10:18:01 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
+2022-06-18 10:18:01 [INFO] service stopped
+2022-06-18 10:18:01 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
+2022-06-18 10:18:01 [INFO] service removed
+```
 
-You have set up the Port-Forwarding rules.
+### Commands Reference
 
-For public IP, you could check the IP address on the dashboard of your router, and compare it with the one you searched "My IP" from the website. If they are different, it means you don't own a public IP, and you have to get help from your network service provider or use Intranet penetration to deploy Meson then.
+```bash
+sudo ./service install meson_cdn              # install node
+sudo ./service start meson_cdn                # start node
+sudo ./service status meson_cdn               # check node running status
+sudo ./service stop meson_cdn                 # stop node
+sudo ./service remove meson_cdn               # remove node
+sudo ./service restart meson_cdn              # restart node
+sudo ./meson_cdn log                          # check logs
+./meson_cdn -h                                # check help
+```
