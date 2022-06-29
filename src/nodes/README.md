@@ -3,17 +3,17 @@
 Who are the most suitable miners for Meson Network?
 
 - Constant bandwidth users
-- Static ip for home users
-- IOT devices owners
-- Dedicated servers owners
-- IDC servers (corporation/organization/schools) owners.
+- Static IP for home users
+- IoT devices' owners
+- Dedicated servers' owners
+- IDC servers' (corporation/organization/schools) owners.
 
 They are welcomed to become our most stable terminals suppliers. As a result, by making the most use of these idle resources, it becomes an economical and healthy model according to the blueprint and positioning of Meson Network Project.
 
 ## Prerequisite
 
 - A Static(Public) IP or A DHCP Reservation
-- Opening the port of the firewall (default: 443, 10443, 10444)
+- Opening the port of the firewall (default: 443, support for custom server ports)
 - Providing enough Storage (default minimum requirements: 20G)
 
 ## Mining Rules

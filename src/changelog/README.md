@@ -6,9 +6,6 @@
 
 🔎 Have a question? You can communicate directly with core developers in the `#🧐dev-suggestions` channel of the [Meson Discord Server](https://discord.com/invite/z6YfSHDkmS).
 
-
-
-
 <el-timeline style="margin-top: 30px;">
     <el-timeline-item timestamp="Feb 2021" placement="top" :hollow="true" type="primary">
         <el-card>
