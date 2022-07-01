@@ -2,11 +2,11 @@
 
 ## Meson 3.0
 
-Meson 3.0 is a new generation of Meson Network node program, with lower deploy requirements and providing more stable services.
+Meson 3.0 is a new generation of Meson Network which has lower deploy requirement and provides more stable services.
 
 ## Meson MCDN
 
-MCDN is an High Concurrency CDN service that aggregates idle bandwidth in data centers, supporting large-scale use of Web2 & Web3 applications.
+MCDN is a hybrid CDN service that aggregates idle bandwidth in data centers and large edge devices supporting large-scale use of Web2 & Web3 applications.
 
 ## Compare Meson 3.0 vs Meson MCDN
 
