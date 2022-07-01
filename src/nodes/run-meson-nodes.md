@@ -4,7 +4,7 @@
 
 ## Deploy Requirements
 
-- A Static(Public) IP or A DHCP Reservation
+- A Public(Static/Dynamic) IP or A DHCP Reservation
 - Opening the port of the firewall (default: 443, support for custom server ports)
 - Providing enough Storage (default minimum requirements: 20G)
 

@@ -64,7 +64,7 @@ MCDN is a hybrid CDN service that aggregates idle bandwidth in data centers and 
         <td>Origin & Hotlink protection</td>
     </tr>
     <tr>
-        <td>Built-in MinIO</td>
+        <td>Meshnet-style Bandwidth</td>
         <td>IP & Geo Whitelisting / Blacklisting</td>
     </tr>
     <tr>
