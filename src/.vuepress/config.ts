@@ -72,7 +72,7 @@ module.exports = {
             },
             {
                 text: 'Blog',
-                link: 'https://medium.com/meson-network'
+                link: 'https://blog.meson.network'
             },
             {
                 text: 'Learn More',
@@ -84,6 +84,10 @@ module.exports = {
                     {
                         text: 'Twitter',
                         link: 'https://twitter.com/NetworkMeson'
+                    },
+                    {
+                        text: 'Medium',
+                        link: 'https://medium.com/meson-network'
                     },
                     {
                         text: 'Discord',
