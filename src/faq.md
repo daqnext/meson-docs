@@ -137,6 +137,34 @@ Permissive
 - [SELinux states and modes - Red Hat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/getting-started-with-selinux_using-selinux) 
 - [Ensuring the required state of selinux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/assembly_configuring-system-security_configuring-basic-system-settings#proc_ensuring-the-required-state-of-selinux_assembly_configuring-system-security)
 
+## How To Set Up a Firewall with UFW on Ubuntu?
+
+Issue the following command to open port 443 traffic.
+
+```bash
+sudo ufw allow 443
+```
+
+Issue the following command to open a range of ports.
+
+```bash
+sudo ufw allow 60000:61000/tcp
+sudo ufw allow 60000:61000/udp
+```
+
+Issue the following command to stop and start Uncomplicated Firewall (UFW).
+
+```bash
+sudo ufw disable
+```
+
+```bash
+sudo ufw enable
+```
+
+- [How To Set Up a Firewall with UFW on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04)
+- [Examples of how to open firewall ports](https://www.ibm.com/docs/es/spectrum-scale/5.1.0?topic=firewall-examples-how-open-ports)
+
 ## How to Forward Ports on Your Router?
 
 This step is important for your own personal computer to run Meson.
