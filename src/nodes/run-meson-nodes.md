@@ -45,7 +45,7 @@ sudo yum update -y && sudo yum install wget -y
 console output:
 
 ```bash
-[ec2-user@ip-172-31-43-179 ~]$ wget 'https://staticassets.meson.network/public/meson_cdn/v3.1.x/meson_cdn-linux-amd64.tar.gz' && tar -zxf meson_cdn-linux-amd64.tar.gz && rm -f meson_cdn-linux-amd64.tar.gz && cd ./meson_cdn-linux-amd64 && sudo ./service install meson_cdn
+$ wget 'https://staticassets.meson.network/public/meson_cdn/v3.1.x/meson_cdn-linux-amd64.tar.gz' && tar -zxf meson_cdn-linux-amd64.tar.gz && rm -f meson_cdn-linux-amd64.tar.gz && cd ./meson_cdn-linux-amd64 && sudo ./service install meson_cdn
 --2022-06-18 07:48:10--  https://staticassets.meson.network/public/meson_cdn/v3.1.x/meson_cdn-linux-amd64.tar.gz
 Resolving staticassets.meson.network (staticassets.meson.network)... 143.244.60.109
 Connecting to staticassets.meson.network (staticassets.meson.network)|143.244.60.109|:443... connected.
@@ -64,17 +64,24 @@ Saving to: 'meson_cdn-linux-amd64.tar.gz'
 ### 2.Set token and config
 
 ```bash
+sudo ufw allow 443
 sudo ./meson_cdn config set --token=your token --https_port=443 --cache.size=30
 ```
 
 console output:
 
 ```bash
-[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./meson_cdn config set --token=your token --https_port=443
+$ sudo ./meson_cdn config set --token=your token --https_port=443
 2022-06-18 07:59:13 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 ```
 
 We recommend enabling TCP Ports 443  in both directions in your server/router. Check your Router's & Cloud's  instructions on how to open ports 443.
+
+Setting port number
+
+```bash
+sudo ufw allow 443              # default is 443, support for custom server ports
+```
 
 To get started with port forwarding, check out [https://portforward.com](https://portforward.com/) .
 
@@ -110,7 +117,7 @@ sudo ./service start meson_cdn
 console output:
 
 ```bash
-[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./service start meson_cdn
+$ sudo ./service start meson_cdn
 2022-06-18 07:59:57 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 2022-06-18 07:59:57 [INFO] service started
 ```
@@ -128,7 +135,7 @@ sudo ./service status meson_cdn
 console output:
 
 ```bash
-[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./service status meson_cdn
+$ sudo ./service status meson_cdn
 2022-06-18 09:31:39 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 2022-06-18 09:31:39 [INFO] service status: RUNNIN
 ```
@@ -142,7 +149,7 @@ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
 console output:
 
 ```bash
-[ec2-user@ip-172-31-43-179 meson_cdn-linux-amd64]$ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
+$ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
 2022-06-18 10:18:01 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 2022-06-18 10:18:01 [INFO] service stopped
 2022-06-18 10:18:01 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
