@@ -92,7 +92,7 @@ Param List:
 ```bash
 -token=your token              # you can find out your token in nodes page
 -https_port=443                # default is 443, support for custom server ports
--cache.size=30                 # at least 20, default is 30, support for custom server ports
+-cache.size=30                 # minimum: 20G, default: 30G
 -cache.folder=xxxx             # string, cache folder path, could be an absolute path
 ```
 
