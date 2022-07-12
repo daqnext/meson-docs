@@ -45,7 +45,7 @@ sudo yum update -y && sudo yum install wget -y
 console output:
 
 ```bash
-$ wget 'https://staticassets.meson.network/public/meson_cdn/v3.1.x/meson_cdn-linux-amd64.tar.gz' && tar -zxf meson_cdn-linux-amd64.tar.gz && rm -f meson_cdn-linux-amd64.tar.gz && cd ./meson_cdn-linux-amd64 && sudo ./service install meson_cdn
+$ wget 'https://staticassets.meson.network/public/meson_cdn/v3.1.x/meson_cdn-linux-amd64.tar.gz' && tar -zxf meson_cdn-linux-amd64.tar.gz && rm -f meson_cdn-linux-amd64.tar.gz && cd ./meson_cdn-linux-amd64 && sudo service install meson_cdn
 --2022-06-18 07:48:10--  https://staticassets.meson.network/public/meson_cdn/v3.1.x/meson_cdn-linux-amd64.tar.gz
 Resolving staticassets.meson.network (staticassets.meson.network)... 143.244.60.109
 Connecting to staticassets.meson.network (staticassets.meson.network)|143.244.60.109|:443... connected.
@@ -101,23 +101,23 @@ In the example, I changed the default port to 520, cache size to 20G.
 
 ```bash
 sudo ufw allow 520
-sudo ./meson_cdn config set --token=your token --https_port=520 --cache.size=20 && sudo ./service restart meson_cdn
+sudo ./meson_cdn config set --token=your token --https_port=520 --cache.size=20 && sudo service restart meson_cdn
 ```
 
-After you modify the config, please restart your node with command  `sudo ./service restart meson_cdn` .
+After you modify the config, please restart your node with command  `sudo service restart meson_cdn` .
 
 ### 3. Start Service
 
 Start the service of Meson Node.
 
 ```bash
-sudo ./service start meson_cdn
+sudo service start meson_cdn
 ```
 
 console output:
 
 ```bash
-$ sudo ./service start meson_cdn
+$ sudo service start meson_cdn
 2022-06-18 07:59:57 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 2022-06-18 07:59:57 [INFO] service started
 ```
@@ -129,13 +129,13 @@ After 2-3 minutes, you will have a new terminal record at **terminals open in n
 ### 4.Check Node Running Status
 
 ```bash
-sudo ./service status meson_cdn
+sudo service status meson_cdn
 ```
 
 console output:
 
 ```bash
-$ sudo ./service status meson_cdn
+$ sudo service status meson_cdn
 2022-06-18 09:31:39 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 2022-06-18 09:31:39 [INFO] service status: RUNNIN
 ```
@@ -143,13 +143,13 @@ $ sudo ./service status meson_cdn
 ### 5.Stop & Remove
 
 ```bash
-sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
+sudo service stop meson_cdn && sudo service remove meson_cdn
 ```
 
 console output:
 
 ```bash
-$ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
+$ sudo service stop meson_cdn && sudo service remove meson_cdn
 2022-06-18 10:18:01 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
 2022-06-18 10:18:01 [INFO] service stopped
 2022-06-18 10:18:01 [INFO] using config: /home/ec2-user/meson_cdn-linux-amd64/configs/default.toml
@@ -159,12 +159,12 @@ $ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
 ### Commands Reference
 
 ```bash
-sudo ./service install meson_cdn              # install node
-sudo ./service start meson_cdn                # start node
-sudo ./service status meson_cdn               # check node running status
-sudo ./service stop meson_cdn                 # stop node
-sudo ./service remove meson_cdn               # remove node
-sudo ./service restart meson_cdn              # restart node
+sudo service install meson_cdn              # install node
+sudo service start meson_cdn                # start node
+sudo service status meson_cdn               # check node running status
+sudo service stop meson_cdn                 # stop node
+sudo service remove meson_cdn               # remove node
+sudo service restart meson_cdn              # restart node
 sudo ./meson_cdn log                          # check logs
 ./meson_cdn -h                                # check help
 ```
