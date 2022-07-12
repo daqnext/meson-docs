@@ -53,7 +53,7 @@ Also, there will be some reward adjustments for servers in different regions.
     </tr>
     <tr>
         <td>Bandwidth Upper Bound</td>
-        <td>Bandwidth score won't increase after bandwidth reaching 1200 Mb/s</td>
+        <td>Bandwidth score won't increase after bandwidth reaching 1500 Mb/s</td>
     </tr>
     <tr>
         <td>Storage Score</td>
