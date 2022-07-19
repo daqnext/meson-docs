@@ -18,15 +18,15 @@ https://arweave.net/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
 Now, let’s use Meson Network to optimize the global delivery for this file. The format:
 
 ```bash
-https://coldcdn.com/api/cdn/arweave/ + ‘arweave_file_id’
+https://pz-ozoavz.meson.network/ + ‘arweave_file_id’
 =>
-https://coldcdn.com/api/cdn/arweave/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
+https://pz-ozoavz.meson.network/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
 ```
 
-The link jumps to a specific node to serve the request, dekiekbbhkceexx is the hash of node.
+The link jumps to a specific node to serve the request, `spec00-bhikbcikfekcxxx-06-ozoavz` is the hash of node.
 
 ```bash
-https://arweave-dekiekbbhkceexx.shoppynext.com:1302/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k-redirecter456gt
+https://spec00-bhikbcikfekcxxx-06-ozoavz.mesontracking.com/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k_m_access_key_wbvsdzxdzf
 ```
 
 ![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhance-arweave-02.png)

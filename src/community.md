@@ -8,8 +8,10 @@
     <span><a target="_blank" href="https://messari.io/asset/meson-network"><img alt="Messari" src="./images/community/messari.svg"></a></span>
     <span><a target="_blank" href="https://www.8btc.com/article/6651320/"><img alt="8BTC" src="./images/community/8btc.svg"></a></span>
     <span><a target="_blank" href="https://bits.media/pr/meson-network-zapustit-osnovnuyu-set-v-2022-godu/"><img alt="bits.media" src="./images/community/bits.media.svg"></a></span>
+    <span><a target="_blank" href="https://www.coinspeaker.com/meson-network-unveiled-new-product-on-meson-day/"><img alt="Coinspeaker" src="./images/community/coinspeaker.svg"></a></span>
     <span><a target="_blank" href="https://coin-turk.com/meson-network-2022-gelismeleri"><img alt="coin-turk" src="./images/community/coin-turk.svg"></a></span>
     <span><a target="_blank" href="https://cryptobriefing.com/meson-network-raises-3-5m-bandwidth-marketplace/"><img alt="Crypto Briefing" src="./images/community/cryptobriefing.svg"></a></span>
+    <span><a target="_blank" href="https://coinreaders.com/38569"><img alt="Coinreaders" src="./images/community/coinreaders.png"></a></span>
     <span><a target="_blank" href="https://coinquora.com/meson-network-raises-3-5m-in-fundraising-round/"><img alt="CoinQuora" src="./images/community/coinquora.svg"></a></span>
     <span><a target="_blank" href="https://bravenewcoin.com/insights/cyberconnect-meson-network-supporting-the-social-graph-in-web3/"><img alt="Brave New Coin" src="./images/community/bravenewcoin.svg"></a></span>
     <span><a target="_blank" href="https://smartliquidity.info/2022/02/24/showme-formed-a-partnership-with-meson-network/"><img alt="smartliquidity" src="./images/community/smartliquidity.svg"></a></span>
@@ -17,6 +19,7 @@
     <span><a target="_blank" href="https://www.theblockbeats.info/flash/54885"><img alt="BlockBeats" src="./images/community/theblockbeats.svg"></a></span>
     <span><a target="_blank" href="https://www.failory.com/startups/blockchain#toc-122-meson-network"><img alt="failory" src="./images/community/failory.svg"></a></span>
     <span><a target="_blank" href="https://zycrypto.com/meson-network-and-rss3-partner-up-to-support-open-information-syndication-protocol-in-web3/"><img alt="zycrypto" src="./images/community/zycrypto.svg"></a></span>
+    <span><a target="_blank" href="https://criptonizando.com/a-meson-network-apresenta-o-seu-novo-produto-no-meson-day-levando-ao-mercado-da-largura-de-banda-uma-gama-mais-amplo-gateway/"><img alt="Coinreaders" src="./images/community/criptonizando.png"></a></span>
     <span>...</span>
 </p>
 

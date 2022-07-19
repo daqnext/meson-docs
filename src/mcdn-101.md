@@ -38,7 +38,7 @@ To set up a MCDN Pull Zone, follow the steps outlined below:
 
 ## Use a Custom domain
 
-1.  Click**Add domain**
+1.  Click **Add domain**
 
 When you create a new site on MCDN, it’s instantly secured at the Default Domain URL (for example, `https://rhwrlulrle.m-cdn.io`). If you add a **Custom domain**, we will automatically provision a certificate with [Let’s Encrypt](https://letsencrypt.org/), enabling HTTPS on your domain. Certificates are generated and renewed automatically as needed.
 
