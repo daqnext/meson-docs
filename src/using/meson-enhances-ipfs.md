@@ -1,4 +1,4 @@
-# Meson enhances IPFS/Filecoin
+# Meson enhance IPFS/Filecoin
 
 Upload a file to IPFS/Filecoin and get dataTxId.
 
