@@ -156,6 +156,7 @@ module.exports = {
                         '/using/README.md',
                         '/using/meson-enhances-arweave.md',
                         '/using/meson-enhances-wordpress.md',
+                        '/using/meson-enhances-jamstack.md',
                     ],
                 },
                 '/mcdn-101.md',

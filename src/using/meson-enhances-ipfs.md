@@ -1,4 +1,4 @@
-# Meson enhance enhances IPFS/Filecoin
+# Meson enhances IPFS/Filecoin
 
 Upload a file to IPFS/Filecoin and get dataTxId.
 
@@ -14,7 +14,7 @@ Click `Add`, Get `Pull zone url`
 
 Change the original path into the new one.
 
-```jsx
+```bash
 https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/
 =>
 https://pz-rlhgrj.meson.network/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/
@@ -22,7 +22,7 @@ https://pz-rlhgrj.meson.network/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6
 
 Now request this new url. meson needs some time to deploy the file on distributed terminals globally.
 
-```jsx
+```bash
 https://spec00-bfhkcefkbefkfxx-06-rlhgrj.mesontracking.com/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/_m_access_key_caavymwyao
 ```
 

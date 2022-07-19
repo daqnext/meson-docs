@@ -29,7 +29,7 @@ The link jumps to a specific node to serve the request, `spec00-bhikbcikfekcxxx-
 https://spec00-bhikbcikfekcxxx-06-ozoavz.mesontracking.com/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k_m_access_key_wbvsdzxdzf
 ```
 
-![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhance-arweave-02.png)
+![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhance-arweave-03.png)
 
 **The difference between the storage layer and cache layer**
 
