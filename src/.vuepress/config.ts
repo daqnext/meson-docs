@@ -71,7 +71,7 @@ module.exports = {
                 link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
             },
             {
-                text: 'Explorer',
+                text: '3.0-Explorer',
                 link: 'https://explorer.meson.network:1984/'
             },
             {
