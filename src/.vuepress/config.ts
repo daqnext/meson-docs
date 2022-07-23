@@ -163,7 +163,6 @@ module.exports = {
                         '/using/meson-enhances-jamstack.md',
                     ],
                 },
-                '/mcdn-101.md',
                 {
                     text: '🌀 Open Source',
                     collapsible: true,
