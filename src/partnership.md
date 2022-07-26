@@ -27,6 +27,9 @@
     <span><img alt="Shima Capital" src="./images/sponsors/shima.svg"></span>
     <span><img alt="LayerX Capital" src="./images/sponsors/layerx.svg"></span>
     <span><img alt="Digital Renaisance" src="./images/sponsors/digitalrenaisance.svg"></span>
+    <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/maverickglobalventures.png"></span>
+    <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/avstar.png"></span>
+    <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/vespertine.png"></span>
     <span><img alt="Xinjun Liang" src="./images/sponsors/xinjunliang.png"></span>
     <span><img alt="Thomas Bailey" src="./images/sponsors/thomasbailey.png"></span>
     <span><img alt="Suji Yan" src="./images/sponsors/sujiyan.png"></span>
@@ -43,6 +46,9 @@
 <p class="grid">
     <span><img alt="Bitppy" src="./images/sponsors/community/bitppy.svg"></span>
     <span><img alt="TestNetRun" src="./images/sponsors/community/testnetrun.svg"></span>
+    <span><img alt="CSP DAO" src="./images/sponsors/community/cspdao.svg"></span>
+    <span><img alt="Bitcoin Addict" src="./images/sponsors/community/bitcoinaddit.png"></span>
+    <span><img alt="Ash WSB" src="./images/sponsors/community/ashwsb.png"></span>
 </p>
 
 ## Partners
