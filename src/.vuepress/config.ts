@@ -172,7 +172,11 @@ module.exports = {
                 {
                     text: '💰 Manage a Wallet',
                     collapsible: true,
-                    link: '/meson-testtokens-to-ethereum.md',
+                    link: '/msntt-transfer-101.md',
+                    children: [
+                        '/msntt-transfer-101.md',
+                        '/meson-testtokens-to-ethereum.md',
+                    ],
                 },
                 {
                     text: '👾 Community',
