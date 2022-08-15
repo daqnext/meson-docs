@@ -33,6 +33,8 @@ We have an active and growing community. All are welcome to be part of our commu
 
 At any point, feel free to join our [Discord server](https://discord.gg/invite/z6YfSHDkmS) and [Telegram group](https://t.me/mesonnetwork).
 
+Join in the [🦄 Meson BUILDer Program](https://forms.gle/xEavrpdo8j4Mwh2XA).
+
 We also use [GitHub](https://github.com/daqnext) Issues and Discussions.
 
 Or you can follow [Twitter](https://twitter.com/NetworkMeson) and [Medium](https://medium.com/meson-network) for updates.
