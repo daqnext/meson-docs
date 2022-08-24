@@ -6,8 +6,13 @@ const rSpecial = /[\s~`!@#$%^&*()\-_+=[\]{}|\\;:"'“”‘’<>,.?/]+/g
 const rCombining = /[\u0300-\u036F]/g
 
 module.exports = {
-    title: 'Meson Network',
-    description: description,
+    locales: {
+    '/': {
+        lang: 'en-US',
+        title: 'Meson Network',
+        description: description,
+    },
+    },
 
     head: [
         ['meta', { name: 'theme-color', content: '#fff' }],
