@@ -12,6 +12,11 @@ module.exports = {
         title: 'Meson Network',
         description: description,
     },
+    '/ru/': {
+        lang: 'ru',
+        title: 'Meson Network',
+        description: 'description',
+      },
     },
 
     head: [
@@ -62,148 +67,296 @@ module.exports = {
         themePlugins: {
             activeHeaderLinks: false,
         },
-        navbar: [
-            {
-                text: 'Home',
-                link: 'https://meson.network/',
-            },
-            {
-                text: 'Guide',
-                link: '/',
-            },
-            {
-                text: 'Whitepaper',
-                link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
-            },
-            {
-                text: '3.0-Explorer',
-                link: 'https://explorer.meson.network:1984/'
-            },
-            {
-                text: 'Blog',
-                link: 'https://blog.meson.network'
-            },
-            {
-                text: 'Learn More',
-                children: [
+        locales: {
+            '/': {
+              selectLanguageName: 'English',
+              navbar: [
+                {
+                    text: 'Home',
+                    link: 'https://meson.network/',
+                },
+                {
+                    text: 'Guide',
+                    link: '/',
+                },
+                {
+                    text: 'Whitepaper',
+                    link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
+                },
+                {
+                    text: '3.0-Explorer',
+                    link: 'https://explorer.meson.network:1984/'
+                },
+                {
+                    text: 'Blog',
+                    link: 'https://blog.meson.network'
+                },
+                {
+                    text: 'Learn More',
+                    children: [
+                        {
+                            text: 'Changelog',
+                            link: '/changelog/',
+                        },
+                        {
+                            text: 'Twitter',
+                            link: 'https://twitter.com/NetworkMeson'
+                        },
+                        {
+                            text: 'Medium',
+                            link: 'https://medium.com/meson-network'
+                        },
+                        {
+                            text: 'Discord',
+                            link: 'https://discord.gg/z6YfSHDkmS'
+                        },
+                        {
+                            text: 'Telegram',
+                            link: 'https://t.me/mesonnetwork'
+                        },
+                        {
+                            text: 'Content2049',
+                            link: 'https://content2049.meson.network'
+                        },
+                        {
+                            text: 'YouTube',
+                            link: 'https://www.youtube.com/c/MesonNetwork'
+                        },
+                        {
+                            text: 'Media Kit',
+                            link: 'https://github.com/daqnext/brand-kit'
+                        },
+                        {
+                            text: 'Status',
+                            link: 'https://status.meson.network'
+                        },
+                    ]
+                },
+            ],
+            sidebar: {
+                '/changelog/': [
                     {
                         text: 'Changelog',
-                        link: '/changelog/',
+                        children: [
+                            '/changelog/README.md',
+                            '/changelog/02-18-2022.md',
+                        ],
+                    },
+                ],
+                '/': [
+                    {
+                        text: '👋 Guide',
+                        collapsible: true,
+                        link: '/README.md',
+                        children: [
+                            '/README.md',
+                            '/meson-token.md',
+                            '/bandwidth-marketplace.md',
+                            '/roadmap.md',
+                            '/partnership.md',
+                        ],
                     },
                     {
-                        text: 'Twitter',
-                        link: 'https://twitter.com/NetworkMeson'
+                        text: '🚀 Run Meson Nodes',
+                        collapsible: true,
+                        link: '/nodes/README.md',
+                        children: [
+                            '/nodes/README.md',
+                            '/nodes/run-meson-nodes.md',
+                            '/nodes/run-meson-arm-nodes.md',
+                        ],
                     },
                     {
-                        text: 'Medium',
-                        link: 'https://medium.com/meson-network'
+                        text: '⚒️ Use Meson Network',
+                        collapsible: true,
+                        link: '/using/README.md',
+                        children: [
+                            '/using/README.md',
+                            '/using/meson-enhances-arweave.md',
+                            '/using/meson-enhances-wordpress.md',
+                            '/using/meson-enhances-jamstack.md',
+                        ],
                     },
                     {
-                        text: 'Discord',
-                        link: 'https://discord.gg/z6YfSHDkmS'
+                        text: '🌀 Open Source',
+                        collapsible: true,
+                        link: '/opensource.md',
                     },
                     {
-                        text: 'Telegram',
-                        link: 'https://t.me/mesonnetwork'
+                        text: '💰 Manage a Wallet',
+                        collapsible: true,
+                        link: '/msntt-transfer-101.md',
+                        children: [
+                            '/msntt-transfer-101.md',
+                            '/meson-testtokens-to-ethereum.md',
+                        ],
                     },
                     {
-                        text: 'Content2049',
-                        link: 'https://content2049.meson.network'
+                        text: '👾 Community',
+                        collapsible: true,
+                        link: '/community.md',
                     },
                     {
-                        text: 'YouTube',
-                        link: 'https://www.youtube.com/c/MesonNetwork'
+                        text: '🌍 Pricing',
+                        collapsible: true,
+                        link: '/pricing.md',
                     },
                     {
-                        text: 'Media Kit',
-                        link: 'https://github.com/daqnext/brand-kit'
+                        text: '🧱 Glossary',
+                        collapsible: true,
+                        link: '/glossary.md',
                     },
                     {
-                        text: 'Status',
-                        link: 'https://status.meson.network'
+                        text: '🌱 FAQ ',
+                        collapsible: true,
+                        link: '/faq.md',
                     },
-                ]
+                ],
             },
-        ],
-        sidebar: {
-            '/changelog/': [
+            },
+            '/ru/': {
+              selectLanguageName: 'Русский',
+              navbar: [
                 {
-                    text: 'Changelog',
+                    text: 'Home',
+                    link: 'https://meson.network/',
+                },
+                {
+                    text: 'Guide',
+                    link: '/',
+                },
+                {
+                    text: 'Whitepaper',
+                    link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
+                },
+                {
+                    text: '3.0-Explorer',
+                    link: 'https://explorer.meson.network:1984/'
+                },
+                {
+                    text: 'Blog',
+                    link: 'https://blog.meson.network'
+                },
+                {
+                    text: 'Learn More',
                     children: [
-                        '/changelog/README.md',
-                        '/changelog/02-18-2022.md',
-                    ],
+                        {
+                            text: 'Changelog',
+                            link: '/changelog/',
+                        },
+                        {
+                            text: 'Twitter',
+                            link: 'https://twitter.com/NetworkMeson'
+                        },
+                        {
+                            text: 'Medium',
+                            link: 'https://medium.com/meson-network'
+                        },
+                        {
+                            text: 'Discord',
+                            link: 'https://discord.gg/z6YfSHDkmS'
+                        },
+                        {
+                            text: 'Telegram',
+                            link: 'https://t.me/mesonnetwork'
+                        },
+                        {
+                            text: 'Content2049',
+                            link: 'https://content2049.meson.network'
+                        },
+                        {
+                            text: 'YouTube',
+                            link: 'https://www.youtube.com/c/MesonNetwork'
+                        },
+                        {
+                            text: 'Media Kit',
+                            link: 'https://github.com/daqnext/brand-kit'
+                        },
+                        {
+                            text: 'Status',
+                            link: 'https://status.meson.network'
+                        },
+                    ]
                 },
             ],
-            '/': [
-                {
-                    text: '👋 Guide',
-                    collapsible: true,
-                    link: '/README.md',
-                    children: [
-                        '/README.md',
-                        '/meson-token.md',
-                        '/bandwidth-marketplace.md',
-                        '/roadmap.md',
-                        '/partnership.md',
-                    ],
-                },
-                {
-                    text: '🚀 Run Meson Nodes',
-                    collapsible: true,
-                    link: '/nodes/README.md',
-                    children: [
-                        '/nodes/README.md',
-                        '/nodes/run-meson-nodes.md',
-                        '/nodes/run-meson-arm-nodes.md',
-                    ],
-                },
-                {
-                    text: '⚒️ Use Meson Network',
-                    collapsible: true,
-                    link: '/using/README.md',
-                    children: [
-                        '/using/README.md',
-                        '/using/meson-enhances-arweave.md',
-                        '/using/meson-enhances-wordpress.md',
-                        '/using/meson-enhances-jamstack.md',
-                    ],
-                },
-                {
-                    text: '🌀 Open Source',
-                    collapsible: true,
-                    link: '/opensource.md',
-                },
-                {
-                    text: '💰 Manage a Wallet',
-                    collapsible: true,
-                    link: '/msntt-transfer-101.md',
-                    children: [
-                        '/msntt-transfer-101.md',
-                        '/meson-testtokens-to-ethereum.md',
-                    ],
-                },
-                {
-                    text: '👾 Community',
-                    collapsible: true,
-                    link: '/community.md',
-                },
-                {
-                    text: '🌍 Pricing',
-                    collapsible: true,
-                    link: '/pricing.md',
-                },
-                {
-                    text: '🧱 Glossary',
-                    collapsible: true,
-                    link: '/glossary.md',
-                },
-                {
-                    text: '🌱 FAQ ',
-                    collapsible: true,
-                    link: '/faq.md',
-                },
-            ],
-        },
+            sidebar: {
+                '/changelog/': [
+                    {
+                        text: 'Changelog',
+                        children: [
+                            '/changelog/README.md',
+                            '/changelog/02-18-2022.md',
+                        ],
+                    },
+                ],
+                '/': [
+                    {
+                        text: '👋 Руководство',
+                        collapsible: true,
+                        link: '/ru/README.md',
+                        children: [
+                            '/ru/README.md',
+                            '/ru/meson-token.md',
+                        ],
+                    },
+                    {
+                        text: '🚀 Запуск Ноды Meson',
+                        collapsible: true,
+                        link: '/ru/nodes/README.md',
+                        children: [
+                            '/ru/nodes/README.md',
+                            '/ru/nodes/run-meson-nodes.md',
+                            '/ru/nodes/run-meson-arm-nodes.md',
+                        ],
+                    },
+                    {
+                        text: '⚒️ Использование Meson',
+                        collapsible: true,
+                        link: '/ru/using/README.md',
+                        children: [
+                            '/ru/using/README.md',
+                            '/ru/using/meson-enhances-arweave.md',
+                            '/ru/using/meson-enhances-wordpress.md',
+                            '/ru/using/meson-enhances-jamstack.md',
+                        ],
+                    },
+                    {
+                        text: '🌀 Управление кошельком',
+                        collapsible: true,
+                        link: '/ru/opensource.md',
+                    },
+                    {
+                        text: '💰 Manage a Wallet',
+                        collapsible: true,
+                        link: '/ru/msntt-transfer-101.md',
+                        children: [
+                            '/ru/msntt-transfer-101.md',
+                            '/ru/meson-testtokens-to-ethereum.md',
+                        ],
+                    },
+                    {
+                        text: '👾 Сообщество',
+                        collapsible: true,
+                        link: '/ru/community.md',
+                    },
+                    {
+                        text: '🌍 Ценообразование',
+                        collapsible: true,
+                        link: '/ru/pricing.md',
+                    },
+                    {
+                        text: '🧱 Глоссарий',
+                        collapsible: true,
+                        link: '/ru/glossary.md',
+                    },
+                    {
+                        text: '🌱 FAQ ',
+                        collapsible: true,
+                        link: '/ru/faq.md',
+                    },
+                ],
+            },
+            },
+          },
     },
 }

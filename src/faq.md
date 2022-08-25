@@ -28,7 +28,7 @@ All terminal nodes need to stake tokens on mainnet, once cheating behaviors are 
 
 ## What is the basic requirement to do mining?
 
-You need a server with at least 40GB storage and a public stable static ip is required during mining.
+You need a server with at least 20GB storage and a public stable static ip is required during mining.
 
 ## Why choose Meson Network?
 
