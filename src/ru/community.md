@@ -9,7 +9,7 @@
     <span><a target="_blank" href="https://www.8btc.com/article/6651320/"><img alt="8BTC" src="./src/../../images/community/8btc.svg"></a></span>
     <span><a target="_blank" href="https://bits.media/pr/meson-network-zapustit-osnovnuyu-set-v-2022-godu/"><img alt="bits.media" src="./src/../../images/community/bits.media.svg"></a></span>
     <span><a target="_blank" href="https://www.coinspeaker.com/meson-network-unveiled-new-product-on-meson-day/"><img alt="Coinspeaker" src="./src/../../images/community/coinspeaker.svg"></a></span>
-    <span><a target="_blank" href="https://coin-turk.com/meson-network-2022-gelismeleri"><img alt="coin-turk" src="./images/community/coin-turk.svg"></a></span>
+    <span><a target="_blank" href="https://coin-turk.com/meson-network-2022-gelismeleri"><img alt="coin-turk" src="./src/../../images/community/coin-turk.svg"></a></span>
     <span><a target="_blank" href="https://cryptobriefing.com/meson-network-raises-3-5m-bandwidth-marketplace/"><img alt="Crypto Briefing" src="./src/../../images/community/cryptobriefing.svg"></a></span>
     <span><a target="_blank" href="https://coinreaders.com/38569"><img alt="Coinreaders" src="./src/../../images/community/coinreaders.png"></a></span>
     <span><a target="_blank" href="https://coinquora.com/meson-network-raises-3-5m-in-fundraising-round/"><img alt="CoinQuora" src="./src/../../images/community/coinquora.svg"></a></span>
