@@ -223,7 +223,7 @@ module.exports = {
                 },
                 {
                     text: 'Guide',
-                    link: '/',
+                    link: '/ru/',
                 },
                 {
                     text: 'Whitepaper',
@@ -321,12 +321,12 @@ module.exports = {
                         ],
                     },
                     {
-                        text: '🌀 Управление кошельком',
+                        text: '🌀 Открытый исходный код',
                         collapsible: true,
                         link: '/ru/opensource.md',
                     },
                     {
-                        text: '💰 Manage a Wallet',
+                        text: '💰 Управление кошельком',
                         collapsible: true,
                         link: '/ru/msntt-transfer-101.md',
                         children: [

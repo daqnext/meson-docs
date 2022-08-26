@@ -159,12 +159,12 @@ $ sudo ./service stop meson_cdn && sudo ./service remove meson_cdn
 ### Справочник по командам
 
 ```bash
-sudo ./service install meson_cdn              # install node
-sudo ./service start meson_cdn                # start node
-sudo ./service status meson_cdn               # check node running status
-sudo ./service stop meson_cdn                 # stop node
-sudo ./service remove meson_cdn               # remove node
-sudo ./service restart meson_cdn              # restart node
-sudo ./meson_cdn log                          # check logs
-./meson_cdn -h                                # check help
+sudo ./service install meson_cdn              # установка узла
+sudo ./service start meson_cdn                # запуск узла
+sudo ./service status meson_cdn               # проверка состояния работы узла
+sudo ./service stop meson_cdn                 # остановка узла
+sudo ./service remove meson_cdn               # удаление узла
+sudo ./service restart meson_cdn              # перезапуск узла
+sudo ./meson_cdn log                          # проверка логов
+./meson_cdn -h                                # проверка помощи
 ```

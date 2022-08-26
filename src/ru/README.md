@@ -155,4 +155,4 @@ Meson может интегрировать ресурсы снизу вверх
         </span>
     </span>
 </div>
-Перевод подготовил - frozke#3440
+Перевод подготовил - [frozke#3440](https://rk-rk.gitbook.io/meson-docs-ru/)
