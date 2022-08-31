@@ -1,18 +1,18 @@
-# Meson и работа с WordPress
+# Meson, WordPress'i geliştirir
 
-Будучи самой популярной системой блогов в эпоху Web2.0, WordPress имеет огромную пользовательскую базу разработчиков, а также множество энтузиастов приложений Web3.0, таких как Arweave и IPFS. Поэтому плагин WordPress DCDN Engine, выпущенный компанией Meson Network, помогает разработчикам на WordPress быстро испытать ускоренную сеть DCDN из Web3.0.
+Web2.0 çağındaki en popüler blog sistemi olan WordPress, büyük bir geliştirici kullanıcı tabanına sahiptir ve ayrıca bu insanlar arasında Arweave ve IPFS gibi Web3.0 uygulamalarının birçok heveslisi vardır. Bu nedenle, Meson Network tarafından yayınlanan WordPress eklentisi DCDN Engine, WordPress'teki geliştiricilerin Web3.0'dan DCDN hızlandırılmış ağı hızlı bir şekilde deneyimlemelerine yardımcı olur.
 
 ![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhances-wordpress-07.png)
 
-Ссылка: [dcdn-engine](https://wordpress.org/plugins/dcdn-engine/)
+Bağlantı: [dcdn-engine](https://wordpress.org/plugins/dcdn-engine/)
 
-## Установка DCDN Engine
+## DCDN Engine'i Yükle
 
 ![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhances-wordpress-08.png)
 
 ![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhances-wordpress-09.png)
 
-## Конфигурация DCDN Engine
+## DCDN Engine'i yapılandır
 
 ![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhances-wordpress-10.png)
 
@@ -26,6 +26,6 @@ Included Directories: wp-content,wp-includes
 Exclusions: .php
 ```
 
-## Тест Meson Network
+## Meson Network Testi
 
 ![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhances-wordpress-13.png)

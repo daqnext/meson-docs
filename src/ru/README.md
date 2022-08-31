@@ -19,8 +19,8 @@ Meson может интегрировать ресурсы снизу вверх
 
 Дополнительные материалы:
 
-- [Meson Network 2022](https://medium.com/meson-network/meson-network-2022-ec246bae8fcc)(перевод в процессе)
-- [Explore Data Center Carbon Protocol](https://medium.com/meson-network/explore-data-center-carbon-protocol-d1833ef03a68)(перевод в процессе)
+- [Meson Network 2022](https://bits.media/pr/meson-network-zapustit-osnovnuyu-set-v-2022-godu/)
+- [Explore Data Center Carbon Protocol](https://github.com/daqnext/DCCC/blob/main/explore-data-center-carbon-credit-protocol-ru.md)
 - [Decentralized Infrastructure in Web3](https://medium.com/meson-network/web3-decentralized-infrastructure-b919cd1d5c48)(перевод в процессе)
 
 ## Как работает сеть Meson
@@ -155,4 +155,5 @@ Meson может интегрировать ресурсы снизу вверх
         </span>
     </span>
 </div>
-Перевод подготовил - [frozke#3440](https://rk-rk.gitbook.io/meson-docs-ru/)
+
+Перевод подготовил - <a target="_blank" href="https://rk-rk.gitbook.io/meson-docs-ru/?utm_source=mesonnetwork">frozke#3440</a>
