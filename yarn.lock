@@ -17,6 +17,11 @@
   resolved "https://registry.npmjs.org/@element-plus/icons-vue/-/icons-vue-1.0.0.tgz"
   integrity sha512-v8W6uiOfwq9GRWBLc0fvp0WwExU09BLdYfldRBxWUCJHeJ9WHeFrtt6BdixGVl9SCZ2V5soB8gi4tr365a9p/Q==
 
+"@lukemnet/vuepress-plugin-matomo@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/@lukemnet/vuepress-plugin-matomo/-/vuepress-plugin-matomo-1.0.3.tgz"
+  integrity sha512-pZK+hR3LnINbDPX03tzUFNfPSJ4QUWVb0SNIdeDYk7yjklBjcM92HtPYFMgywJ1Dj9ztetY7u6TlfQoVHgjZrg==
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
@@ -1580,11 +1585,6 @@ vue@^3.2.28:
     "@vue/runtime-dom" "3.2.29"
     "@vue/server-renderer" "3.2.29"
     "@vue/shared" "3.2.29"
-
-vuepress-plugin-matomo@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/vuepress-plugin-matomo/-/vuepress-plugin-matomo-1.0.2.tgz"
-  integrity sha512-4hTvIhz7r1nZz5U9IqH/OHfkXE5r8+RHh+EY9Fj5t5J4x2s/pr7rAgvz6y5VN4nWP45Y1a9oarUsvJSkl2De+A==
 
 vuepress-vite@2.0.0-beta.36:
   version "2.0.0-beta.36"
