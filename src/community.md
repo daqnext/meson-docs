@@ -25,6 +25,31 @@
 
 ## Events
 
+###  The Retrieval Market Summit at LabWeek22 / Oct 13, 2022
+
+![](./images/community/events/the-retrieval-market-summit.webp)
+
+[Retrieval Markets Summit](https://retrievalmarketssummit.super.site) | [Twitter](https://twitter.com/NetworkMeson/status/1585449891144179712) | [YouTube](https://www.youtube.com/watch?v=Ms0nF9qEnWQ&feature=youtu.be)
+
+###  Devcon VI / Oct 13, 2022
+
+![](./images/community/events/devcon-vi.webp)
+
+[Devcon](https://blog.ethereum.org/en/2022/10/10/devcon-impact-supporters) | [Twitter](https://twitter.com/SherlockShi_AHA/status/1580236232675954688)
+
+###  Sustainable Blockchain Summit / Oct 9, 2022
+
+![](./images/community/events/sustainable-blockchain-summit.jpeg)
+
+[Twitter](https://twitter.com/filecoingreen/status/1578829587207065600)
+
+
+###  Token2049 Welcome party / Sept 26, 2022
+
+![](./images/community/events/token2049-welcome-party.jpeg)
+
+[Twitter](https://twitter.com/allinweb3_io/status/1570670803255169027)
+
 ### In New York / June 21, 2022
 
 ![](./images/community/events/zonffpartners-bca-nftnyc.jpeg)
@@ -198,7 +223,26 @@
 - [Foresight Ventures: Redefine NFT (Music, 4th-Dimension, Privacy, Interaction)](https://foresightventures.medium.com/foresight-ventures-redefine-nft-music-4th-dimension-privacy-interaction-a81f011be86)
 - [Arweave：Detailed explanation of key projects](https://medium.com/@invest_71820/arweave-detailed-explanation-of-key-projects-8eebbbbba39e)
 
-## AMA
+## AMA / Podcasts
+
+### ArCast / Oct 19, 2022
+
+![](./images/community/ama/arcast-meson.jpeg)
+
+[Twitter](https://twitter.com/ardriveapp/status/1582510096252211200) | [Permacast](https://app.permacast.dev/#/podcasts/rBIQpWeYcf0_reltNXTKjjEUHlQRL9CmZCNcgYjZaao) | [Spotify](https://open.spotify.com/episode/3L3jEp8ieeNL06QbA9rmHU) | [YouTube](https://www.youtube.com/watch?v=8ORPd5iazeI)
+
+
+### Bringing Bandwidth On-Chain Web3 Labs / Oct 18, 2022
+<br>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/3sKzSG55i14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Web3 Labs](https://www.buzzsprout.com/1814826/11493385) | [Twitter](https://twitter.com/web3labs/status/1582310772121948160) | [YouTube](https://www.youtube.com/watch?v=GcHmefgmZRI)
+
+### Retrieval Market Builders Demo Day - Meson Network / Feb 2, 2022
+<br>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/GcHmefgmZRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[YouTube](https://www.youtube.com/watch?v=GcHmefgmZRI)
 
 ### Arweave  AMA / Feb 15, 2022
 
@@ -235,6 +279,12 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a> is a decentralized CDN without censorship. May work!</p>&mdash; Suji Yan - Mask is hiring (@suji_yan) <a href="https://twitter.com/suji_yan/status/1451653667245932544?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote>
 
 ## Trends
+
+### Binance Research Crypto Industry Map / Nov 14, 2022
+
+![Binance Research Crypto Industry Map](./images/community/twitter/binance-research-crypto-industry-map.jpeg)
+
+[Twitter](https://twitter.com/BinanceResearch/status/1592136915545100289)
 
 ### Kryptos Arweave Ecosystem / Mar 24, 2022
 

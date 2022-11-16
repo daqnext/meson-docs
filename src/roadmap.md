@@ -15,7 +15,7 @@
         <el-card>
             <h4>Launch the Testnet-2.5</h4>
             <p>Decouple the structure between storage and retrieval, develop the architecture to support all kinds of origin URL based on HTTP302.
-            Support the m3u8 standard to power the video and livestreaming platform (e.g. <a href="http://hotcat.live">hotcat.live</a>).</p>
+            Support the m3u8 standard to power the video and livestreaming platform (e.g. hotcat.live).</p>
             <p>Deploy the testnet token mapping contract and add Meson Improvement Proposals(<a href="https://github.com/daqnext/MIP">MIPs</a>).
             Users can join the governance for the network.</p>
             <p>Target early adopters.</p>

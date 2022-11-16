@@ -27,6 +27,10 @@ Extended Reading:
 
 ![](./images/system2.png)
 
+Extended Version:
+
+- [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
+
 ## Social Media
 
 We have an active and growing community. All are welcome to be part of our community, help shape it, or simply observe.
@@ -98,6 +102,18 @@ Feel free to submit yours in Let us know!
     </span>
     <span class="eco-app">
         <span class="banner">
+            <img src="./images/sponsors/partners/okc.svg">
+        </span>
+        <span class="description">
+            <h4>OKX Chain</h4>
+            <p>Bringing dCDN to the Forefront of Web3.</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://www.okx.com/okc/?utm_source=mesonnetwork">Open OKX Chain</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
             <img src="./images/sponsors/partners/cyberconnect.svg">
         </span>
         <span class="description">
@@ -110,14 +126,14 @@ Feel free to submit yours in Let us know!
     </span>
     <span class="eco-app">
         <span class="banner">
-            <img src="./images/sponsors/partners/showme.svg">
+            <img src="./images/sponsors/partners/phantom.svg">
         </span>
         <span class="description">
-            <h4>ShowMe</h4>
-            <p>Meson Network support NFT social subscription platform in Web3.</p>
+            <h4>Phantom</h4>
+            <p>A friendly Solana wallet built for DeFi & NFTs.</p>
         </span>
         <span class="link">
-            <a target="_blank" href="https://showme.fan/?utm_source=mesonnetwork">Open ShowMe</a>
+            <a target="_blank" href="https://phantom.app/?utm_source=mesonnetwork">Open Phantom</a>
         </span>
     </span>
     <span class="eco-app">
@@ -146,6 +162,18 @@ Feel free to submit yours in Let us know!
     </span>
     <span class="eco-app">
         <span class="banner">
+            <img src="./images/sponsors/partners/showme.svg">
+        </span>
+        <span class="description">
+            <h4>ShowMe</h4>
+            <p>Meson Network support NFT social subscription platform in Web3.</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://showme.fan/?utm_source=mesonnetwork">Open ShowMe</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
             <img src="./images/sponsors/partners/permacast.svg">
         </span>
         <span class="description">
@@ -153,7 +181,55 @@ Feel free to submit yours in Let us know!
             <p>Meson Network support Web3 Podcast hosting platform.</p>
         </span>
         <span class="link">
-            <a target="_blank" href="https://permacast.net/?utm_source=mesonnetwork">Open Permacast</a>
+            <a target="_blank" href="https://permacast.dev/?utm_source=mesonnetwork">Open Permacast</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/sponsors/partners/ultiverse.svg">
+        </span>
+        <span class="description">
+            <h4>Ultiverse</h4>
+            <p>Meson Network supporting the social gaming metaverse in Web3.</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://www.ultiverse.io/?utm_source=mesonnetwork">Open Ultiverse</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/sponsors/partners/port3.svg">
+        </span>
+        <span class="description">
+            <h4>Port3</h4>
+            <p>Meson Network support the Gateway to Web3 Social Graph.</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://www.port3.io/?utm_source=mesonnetwork">Open Port3</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/sponsors/partners/decentland.svg">
+        </span>
+        <span class="description">
+            <h4>Decent.Land</h4>
+            <p>Meson Network supporting the Social infrastructure for Web3.</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://www.decent.land/?utm_source=mesonnetwork">Open Decent.Land</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/sponsors/partners/nftscan.svg">
+        </span>
+        <span class="description">
+            <h4>NFTSCAN</h4>
+            <p>Provide users with a simple and efficient NFT retrieval service.</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://www.nftscan.com/?utm_source=mesonnetwork">Open NFTSCAN</a>
         </span>
     </span>
 </div>

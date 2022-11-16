@@ -61,6 +61,7 @@ module.exports = {
         ['@vuepress/plugin-google-analytics', {
             id: 'G-SEH5LFSBRP',
         }],
+        ['matomo', {trackerUrl: 'meson.store/', siteId: '1'}],
     ],
 
     themeConfig: {
