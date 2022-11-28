@@ -211,7 +211,7 @@ module.exports = {
                         ],
                     },
                     {
-                        text: '👾 Community',
+                        text: '⛰️ El Camino Real',
                         collapsible: true,
                         link: '/community.md',
                     },
