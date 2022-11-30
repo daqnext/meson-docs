@@ -27,11 +27,10 @@ Extended Reading:
 
 ![](./images/system2.png)
 
-Extended Version:
-- [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
-
+Extended Version: [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
 
 ## Social Media
+
 We have an active and growing community. All are welcome to be part of our community, help shape it, or simply observe.
 
 At any point, feel free to join our [Discord server](https://discord.gg/invite/z6YfSHDkmS) and [Telegram group](https://t.me/mesonnetwork).
