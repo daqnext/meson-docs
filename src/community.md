@@ -50,6 +50,12 @@
 
 [Twitter](https://twitter.com/allinweb3_io/status/1570670803255169027)
 
+###  TIPIN Summit 2022 / Sept 23, 2022
+
+![](./images/community/events/tipin.jpg)
+
+[YouTube](https://youtu.be/uKN1suK0xZI?t=2954) | [Twitter](https://twitter.com/HowardZjh/status/1573212369287008256)
+
 ### In New York / June 21, 2022
 
 ![](./images/community/events/zonffpartners-bca-nftnyc.jpeg)
@@ -303,6 +309,12 @@
 ![BNB Master Digital Currency Group Portfolio](./images/community/twitter/bnb-master-digital-currency-group-portfolio.jpeg)
 
 [Twitter](https://twitter.com/Master_BNB/status/1481972607872237571)
+
+### Verto Arweave Ecosystem / Jan 13, 2022
+
+![Verto Arweave Ecosystem](./images/community/twitter/verto-arweave-ecosystem.jpeg)
+
+[Twitter](https://twitter.com/vertoexchange/status/1481349494968971266)
 
 ### CoinF Digital Currency Group Portfolio / Nov 20, 2021
 

@@ -28,6 +28,7 @@ Extended Reading:
 ![](./images/system2.png)
 
 Extended Version: [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
+<br />
 
 ## Social Media
 
