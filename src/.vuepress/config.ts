@@ -234,8 +234,8 @@ module.exports = {
             },
             },
             '/ru/': {
-              selectLanguageName: 'Русский',
-              navbar: [
+            selectLanguageName: 'Русский',
+            navbar: [
                 {
                     text: 'Home',
                     link: 'https://meson.network/',
@@ -379,109 +379,139 @@ module.exports = {
             '/tr/': {
                 selectLanguageName: 'Türkçe',
                 navbar: [
-                  {
-                      text: 'Home',
-                      link: 'https://meson.network/',
-                  },
-                  {
-                      text: 'Guide',
-                      link: '/tr/',
-                  },
-                  {
-                      text: 'Whitepaper',
-                      link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
-                  },
-                  {
-                      text: '3.0-Explorer',
-                      link: 'https://explorer.meson.network:1984/'
-                  },
-                  {
-                      text: 'Blog',
-                      link: 'https://blog.meson.network'
-                  },
-                  {
-                      text: 'Learn More',
-                      children: [
-                          {
-                              text: 'Changelog',
-                              link: '/changelog/',
-                          },
-                          {
-                              text: 'Twitter',
-                              link: 'https://twitter.com/NetworkMeson'
-                          },
-                          {
-                              text: 'Medium',
-                              link: 'https://medium.com/meson-network'
-                          },
-                          {
-                              text: 'Discord',
-                              link: 'https://discord.gg/z6YfSHDkmS'
-                          },
-                          {
-                              text: 'Telegram',
-                              link: 'https://t.me/mesonnetwork'
-                          },
-                          {
-                              text: 'Content2049',
-                              link: 'https://content2049.meson.network'
-                          },
-                          {
-                              text: 'YouTube',
-                              link: 'https://www.youtube.com/c/MesonNetwork'
-                          },
-                          {
-                              text: 'Media Kit',
-                              link: 'https://github.com/daqnext/brand-kit'
-                          },
-                          {
-                              text: 'Status',
-                              link: 'https://status.meson.network'
-                          },
-                      ]
-                  },
-              ],
-              sidebar: {
-                  '/changelog/': [
-                      {
-                          text: 'Changelog',
-                          children: [
-                              '/changelog/README.md',
-                              '/changelog/02-18-2022.md',
-                          ],
-                      },
-                  ],
-                  '/': [
-                      {
-                          text: '👋 Kılavuz',
-                          collapsible: true,
-                          link: '/tr/README.md',
-                          children: [
-                              '/tr/README.md',
-                              '/tr/meson-token.md',
-                          ],
-                      },
-                      {
-                          text: '🚀 Meson Node Çalıştırma',
-                          collapsible: true,
-                          link: '/tr/nodes/README.md',
-                          children: [
-                              '/tr/nodes/README.md',
-                              '/tr/nodes/run-meson-nodes.md',
-                              '/tr/nodes/run-meson-arm-nodes.md',
-                          ],
-                      },
-                      {
-                          text: '⚒️ Meson Network Kullanımı',
-                          collapsible: true,
-                          link: '/tr/using/README.md',
-                          children: [
-                              '/tr/using/README.md',
-                              '/tr/using/meson-enhances-arweave.md',
-                              '/tr/using/meson-enhances-wordpress.md',
-                              '/tr/using/meson-enhances-jamstack.md',
-                          ],
-                      },
+                {
+                    text: 'Home',
+                    link: 'https://meson.network/',
+                },
+                {
+                    text: 'Guide',
+                    link: '/tr/',
+                },
+                {
+                    text: 'Whitepaper',
+                    link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
+                },
+                {
+                    text: '3.0-Explorer',
+                    link: 'https://explorer.meson.network:1984/'
+                },
+                {
+                    text: 'Blog',
+                    link: 'https://blog.meson.network'
+                },
+                {
+                    text: 'Learn More',
+                    children: [
+                        {
+                            text: 'Changelog',
+                            link: '/changelog/',
+                        },
+                        {
+                            text: 'Twitter',
+                            link: 'https://twitter.com/NetworkMeson'
+                        },
+                        {
+                            text: 'Medium',
+                            link: 'https://medium.com/meson-network'
+                        },
+                        {
+                            text: 'Discord',
+                            link: 'https://discord.gg/z6YfSHDkmS'
+                        },
+                        {
+                            text: 'Telegram',
+                            link: 'https://t.me/mesonnetwork'
+                        },
+                        {
+                            text: 'Content2049',
+                            link: 'https://content2049.meson.network'
+                        },
+                        {
+                            text: 'YouTube',
+                            link: 'https://www.youtube.com/c/MesonNetwork'
+                        },
+                        {
+                            text: 'Media Kit',
+                            link: 'https://github.com/daqnext/brand-kit'
+                        },
+                        {
+                            text: 'Status',
+                            link: 'https://status.meson.network'
+                        },
+                    ]
+                },
+            ],
+            sidebar: {
+                '/changelog/': [
+                    {
+                        text: 'Changelog',
+                        children: [
+                            '/changelog/README.md',
+                            '/changelog/02-18-2022.md',
+                        ],
+                    },
+                ],
+                '/': [
+                    {
+                        text: '👋 Kılavuz',
+                        collapsible: true,
+                        link: '/tr/README.md',
+                        children: [
+                            '/tr/README.md',
+                            '/tr/meson-token.md',
+                        ],
+                    },
+                    {
+                        text: '🚀 Meson Node Çalıştırma',
+                        collapsible: true,
+                        link: '/tr/nodes/README.md',
+                        children: [
+                            '/tr/nodes/README.md',
+                            '/tr/nodes/run-meson-nodes.md',
+                            '/tr/nodes/run-meson-arm-nodes.md',
+                    ],
+                    },
+                    {
+                        text: '⚒️ Meson Network Kullanımı',
+                        collapsible: true,
+                        link: '/tr/using/README.md',
+                        children: [
+                            '/tr/using/README.md',
+                            '/tr/using/meson-enhances-arweave.md',
+                            '/tr/using/meson-enhances-wordpress.md',
+                            '/tr/using/meson-enhances-jamstack.md',
+                        ],
+                    },
+                    {
+                        text: '🌀 Açık kaynak',
+                        collapsible: true,
+                        link: '/tr/opensource.md',
+                    },
+                    {
+                        text: '💰 MSNTT Transfer 101',
+                        collapsible: true,
+                        link: '/tr/msntt-transfer-101.md',
+                    },
+                    {
+                        text: '👾 Topluluk',
+                        collapsible: true,
+                        link: '/tr/community.md',
+                    },
+                    {
+                        text: '🌍 Fiyatlandırma',
+                        collapsible: true,
+                        link: '/tr/pricing.md',
+                    },
+                    {
+                        text: '🧱 Sözlük',
+                        collapsible: true,
+                        link: '/tr/glossary.md',
+                    },
+                    {
+                        text: '🌱 FAQ ',
+                        collapsible: true,
+                        link: '/tr/faq.md',
+                    },
                   ],
               },
               },

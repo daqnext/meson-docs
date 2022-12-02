@@ -1,6 +1,6 @@
-# 🌍 Ценообразование
+# 🌍 Pricing
 
-Meson 3.0 - это новое поколение Meson Network, которое имеет меньшие требования к развертыванию и предоставляет более стабильные услуги.
+Meson 3.0, daha düşük dağıtım gereksinimine sahip ve daha sabit hizmetler sağlayan yeni nesil bir Meson Ağıdır.
 
 <div class="pricing-table-wrapper">
   <ul class="pricing-table">
@@ -15,13 +15,13 @@ Meson 3.0 - это новое поколение Meson Network, которое �
       </p>
       <ul class="pricing-table__products">
         <li class="pricing-table__product">Pullzone: 10</li>
-        <li class="pricing-table__product">6 континентов</li>
+        <li class="pricing-table__product">6 kıta</li>
         <li class="pricing-table__product">No rate limits</li>
-        <li class="pricing-table__product">Arweave Gateway</li>
-        <li class="pricing-table__product">IPFS Gateway</li>
+        <li class="pricing-table__product">Arweave Ağ Geçidi</li>
+        <li class="pricing-table__product">IPFS Ağ Geçidi</li>
         <li class="pricing-table__product">TLS 1.3</li>
         <li class="pricing-table__product">HLS</li>
-        <li class="pricing-table__product">Meshnet-style Bandwidth</li>
+        <li class="pricing-table__product">Meshnet Tarzı Bant Genişliği</li>
       </ul>
       <a href="https://dashboard.meson.network/user/balance"
       class="pricing-table__button"
@@ -39,13 +39,13 @@ Meson 3.0 - это новое поколение Meson Network, которое �
       </p>
       <ul class="pricing-table__products">
         <li class="pricing-table__product">Pullzone: 30</li>
-        <li class="pricing-table__product">6 континентов</li>
+        <li class="pricing-table__product">6 kıta</li>
         <li class="pricing-table__product">No rate limits</li>
-        <li class="pricing-table__product">Arweave Gateway</li>
-        <li class="pricing-table__product">IPFS Gateway</li>
+        <li class="pricing-table__product">Arweave Ağ Geçidi</li>
+        <li class="pricing-table__product">IPFS Ağ Geçidi</li>
         <li class="pricing-table__product">TLS 1.3</li>
         <li class="pricing-table__product">HLS</li>
-        <li class="pricing-table__product">Meshnet-style Bandwidth</li>
+        <li class="pricing-table__product">Meshnet Tarzı Bant Genişliği</li>
       </ul>
       <a
       href="https://dashboard.meson.network/user/balance"
@@ -64,13 +64,13 @@ Meson 3.0 - это новое поколение Meson Network, которое �
       </p>
       <ul class="pricing-table__products">
         <li class="pricing-table__product">Pullzone: 100</li>
-        <li class="pricing-table__product">6 континентов</li>
+        <li class="pricing-table__product">6 kıta</li>
         <li class="pricing-table__product">No rate limits</li>
-        <li class="pricing-table__product">Arweave Gateway</li>
-        <li class="pricing-table__product">IPFS Gateway</li>
+        <li class="pricing-table__product">Arweave Ağ Geçidi</li>
+        <li class="pricing-table__product">IPFS Ağ Geçidi</li>
         <li class="pricing-table__product">TLS 1.3</li>
         <li class="pricing-table__product">HLS</li>
-        <li class="pricing-table__product">Meshnet-style Bandwidth</li>
+        <li class="pricing-table__product">Meshnet Tarzı Bant Genişliği</li>
       </ul>
       <a
       href="https://dashboard.meson.network/user/balance"
