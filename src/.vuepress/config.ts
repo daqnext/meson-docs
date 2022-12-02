@@ -30,19 +30,19 @@ module.exports = {
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
         ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg' }],
         ['script', {}, `
-              var _paq = window._paq = window._paq || [];
-              /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-              _paq.push(['trackPageView']);
-              _paq.push(['enableLinkTracking']);
-              (function() {
+            var _paq = window._paq = window._paq || [];
+                /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
                 var u="https://meson.store/";
                 _paq.push(['setTrackerUrl', u+'matomo.php']);
                 _paq.push(['setSiteId', '2']);
                 var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
                 g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-              })();
+            })();
             `
-          ],
+        ],
     ],
 
     markdown: {
@@ -88,8 +88,8 @@ module.exports = {
         },
         locales: {
             '/': {
-              selectLanguageName: 'English',
-              navbar: [
+            selectLanguageName: 'English',
+            navbar: [
                 {
                     text: 'Home',
                     link: 'https://meson.network/',
@@ -214,6 +214,13 @@ module.exports = {
                         text: '⛰️ El Camino Real',
                         collapsible: true,
                         link: '/community.md',
+                    },
+                    {
+                        text: '🔆 Case Studies',
+                        collapsible: true,
+                        children: [
+                            '/case-studies/arweave.md',
+                        ],
                     },
                     {
                         text: '🌍 Pricing',
@@ -512,9 +519,9 @@ module.exports = {
                         collapsible: true,
                         link: '/tr/faq.md',
                     },
-                  ],
-              },
-              },
-          },
+                ],
+            },
+            },
+        },
     },
 }
