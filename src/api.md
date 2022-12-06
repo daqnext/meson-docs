@@ -301,18 +301,28 @@ Code:200 | Response Body:
 
 ```json
 curl -X 'POST' \
-  'https://api.meson.network/api/node/hearbeat' \
+  'https://api.meson.network/api/node/heartbeat' \
   -H 'accept: application/json' \
   -H 'Authorization: bearer $YOUR_TOKEN' \
   -H 'Content-Type: application/json' \
   -d '{
   "access_key": "string",
-  "node_id": "string",
+  "node_id": "YOUR_NODE_ID",
   "port": "string",
   "storage_port": "string",
   "version": "string"
 }'
 ```
+
+Example of Return Values
+
+```json
+Code:200 | Response Body:
+{
+  "server_unixtime":***,
+  "meta_status":1,
+  "meta_message":"success"
+}
 
 ## System Check
 
