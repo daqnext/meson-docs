@@ -27,25 +27,6 @@ curl -X 'POST' \
 }'
 ```
 
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "meta_status": 1,
-  "meta_message": "success",
-  "pull_zone": {
-    "id": $YOUR_PULLZONE_ID,
-    "name": "***",
-    "tag": "",
-    "origin": "",
-    "userid": $YOUR_USER_ID,
-    "forbidden": false,
-    "created_unixtime": ***
-  }
-}
-```
-
 ### Delete Zone
 
 Please replace `$YOUR_TOKEN` and `$YOUR_PullZone_ID`.
@@ -64,16 +45,6 @@ curl -X 'POST' \
     ]
   }
 }'
-```
-
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "meta_status":1,
-  "meta_message":"success"
-}
 ```
 
 ### Traffic Check
@@ -102,33 +73,6 @@ curl -X 'POST' \
 }'
 ```
 
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "meta_status": 1,
-  "meta_message": "success",
-  "traffic": [
-    {
-      "id": "***",
-      "userid": ***,
-      "amount": "***",
-      "credit_name": "MTRAFFIC",
-      "created_date": "***"
-    },
-    {
-      "id": "***",
-      "userid": ***,
-      "amount": "***",
-      "credit_name": "MTRAFFIC",
-      "created_date": "***"
-    },
-    ...
-  ]
-}
-```
-
 ### Price Check
 
 Please replace `$YOUR_TOKEN`, `$START_DATE` and `$END_DATE`.
@@ -153,34 +97,6 @@ curl -X 'POST' \
 }'
 ```
 
-Example of Return Values
-
-```json
-Code:200 | Body:
-{
-  "meta_status": 1,
-  "meta_message": "success",
-  "pdn_usage": [
-    {
-      "id": "***",
-      "userid": ***,
-      "amount": "0",
-      "credit_name": "PDN",
-      "created_date": "***"
-    },
-    {
-      "id": "***",
-      "userid": ***,
-      "amount": "0",
-      "credit_name": "PDN",
-      "created_date": "***"
-    },
-    ...
-  ]
-}
-```
-
-
 ### Domain Check
 
 It would return the domain you will have of your pull zones.
@@ -190,17 +106,6 @@ curl -X 'GET' \
   'https://api.meson.network/api/node/node_domain' \
   -H 'accept: application/json' \
   -H 'Authorization: bearer $YOUR_TOKEN'
-```
-
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "meta_status": 1,
-  "meta_message": "success",
-  "node_domain": "***"
-}
 ```
 
 ## Nodes Monitor
@@ -229,100 +134,22 @@ curl -X 'POST' \
 }'
 ```
 
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "meta_status": 1,
-  "meta_message": "success",
-  "node_list": [
-    {
-      "ip": "***",
-      "port": "",
-      "userid": ***,
-      "token": "",
-      "node_id": "***",
-      "access_key": "",
-      "version": "***",
-      "bandwidth_bytes_sec": ***,
-      "node_credit": ***,
-      "score": ***,
-      "country_code": "***",
-      "last_callback_unixtime": 0,
-      "last_speed_test_unixtime": 0,
-      "last_heart_beat_unixtime": 0,
-      "stor_total_bytes": ***,
-      "stor_used_bytes": ***,
-      "cpu": "***",
-      "cpu_count": ***,
-      "op_sys": "***",
-      "cpu_percentage": 0,
-      "mem_total_bytes": 0,
-      "mem_used_bytes": 0,
-      "disk_total_bytes": 0,
-      "disk_used_bytes": 0,
-      "status": "ON"
-    },
-    {
-      "ip": "***",
-      "port": "",
-      "userid": ***,
-      "token": "",
-      "node_id": "***",
-      "access_key": "",
-      "version": "***",
-      "bandwidth_bytes_sec": ***,
-      "node_credit": ***,
-      "score": ***,
-      "country_code": "***",
-      "last_callback_unixtime": 0,
-      "last_speed_test_unixtime": 0,
-      "last_heart_beat_unixtime": 0,
-      "stor_total_bytes": ***,
-      "stor_used_bytes": ***,
-      "cpu": "***",
-      "cpu_count": ***,
-      "op_sys": "***",
-      "cpu_percentage": 0,
-      "mem_total_bytes": 0,
-      "mem_used_bytes": 0,
-      "disk_total_bytes": 0,
-      "disk_used_bytes": 0,
-      "status": "ON"
-    },
-    ...
-  ],
-  "count": $YOUR_NODE_COUNTS
-}
-```
-
 ### Heartbeat
 
 ```json
 curl -X 'POST' \
-  'https://api.meson.network/api/node/heartbeat' \
+  'https://api.meson.network/api/node/hearbeat' \
   -H 'accept: application/json' \
   -H 'Authorization: bearer $YOUR_TOKEN' \
   -H 'Content-Type: application/json' \
   -d '{
   "access_key": "string",
-  "node_id": "YOUR_NODE_ID",
+  "node_id": "string",
   "port": "string",
   "storage_port": "string",
   "version": "string"
 }'
 ```
-
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "server_unixtime":***,
-  "meta_status":1,
-  "meta_message":"success"
-}
 
 ## System Check
 
@@ -334,32 +161,10 @@ curl -X 'GET' \
   -H 'accept: application/json'
 ```
 
-Example of Return Values
-
-```json
-Code:200 | Response Body:
-{
-  "unixtime": ***
-}
-```
-
 ### Test Token
 
 ```json
 curl -X 'GET' \
   'https://api.meson.network/api/info/token_info' \
   -H 'accept: application/json'
-```
-
-
-Example of Return Values
-
-```json
-{
-  "meta_status": 1,
-  "meta_message": "success",
-  "token_type": "MSNTT",
-  "token_mined_daily": "2500000",
-  "token_released": "***"
-}
 ```
