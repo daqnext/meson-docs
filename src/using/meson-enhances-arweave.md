@@ -18,9 +18,9 @@ https://arweave.net/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
 Now, let’s use Meson Network to optimize the global delivery for this file. The format:
 
 ```bash
-https://pz-ozoavz.meson.network/ + ‘arweave_file_id’
+https://{your_pull_zone}.meson.network/ + ‘arweave_file_id’
 =>
-https://pz-ozoavz.meson.network/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
+https://pz-oidwhx.meson.network/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
 ```
 
 The link jumps to a specific node to serve the request, `spec00-bhikbcikfekcxxx-06-ozoavz` is the hash of node.

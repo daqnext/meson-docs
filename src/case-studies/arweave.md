@@ -8,6 +8,8 @@
 
 This is because NFT files are usually very small image files. Every time a user accesses an NFT, they need to make a request to the Gateway. The Gateway retrieves the NFT and returns it to the user.
 
+![](./images/../../images/case-studies/bank-run.png)
+
 ❓ **Gateway encountered a physical bottleneck**
 
 When the NFT Marketplace access surges at a certain point in time, these high concurrent requests may cause the server to run out of resources, causing the Gateway node to reach the ***CPU, I/O, Memory and Bandwidth Bound*** in the physical environment (you can learn from Brendan Gregg's [Systems Performance](https://www.goodreads.com/en/book/show/18058001-systems-performance) Learn more in the book).
@@ -34,13 +36,31 @@ A Gateway needs an SSL certificate in order to keep user data secure, prevent at
 
 When using the Meson Arweave gateway, customers get the additional benefit of using the Meson CDN, which can cache Arweave content close to users, increasing overall performance.
 
+![](./images/../../images/case-studies/meson-mechanism-1.png)
+
+## Example
+
+Change the Arweave Gateway into the Meson Gateway. [Read More](https://docs.meson.network/using/meson-enhances-arweave.html)
+
+```bash
+https://arweave.net/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
+=>
+https://{your_pull_zone}.meson.network/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k
+```
+
+![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhance-arweave-04.png)
+[Meson enhance Arweave Demo](https://mesondemo.github.io/meson-arweave.html)
+
 ## Results
 
-![Traffic distributed by Meson Network for Arweave(GB)](./images/../../images/case-studies/traffic-distributed-by-meson-network-for-arweave.jpeg)
+![Traffic distributed by Meson Network for Arweave(GB)](./images/../../images/case-studies/traffic-distributed-by-meson-network-for-arweave-3.png)
+
 
 The Meson Gateway for Arweave has withstood high concurrent Retrieval requests from Arweave, and has been running stably for **500** days with **100%** online rate, which support **4072.77 TB** Arweave files to be retrieved. (As of August 5, 2022).
 
-**Extended Reading**:
+[![](./images/../../images/case-studies/sam-tweet.png)](https://twitter.com/samecwilliams/status/1432452769785462797)
+
+## Extended Reading
 
 - [Meson enhance Arweave](https://docs.meson.network/using/meson-enhances-arweave.html)
 - [Meson Mechanism](https://medium.com/meson-network/meson-enhance-arweave-86c8cabba8f2)

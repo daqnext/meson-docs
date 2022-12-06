@@ -78,7 +78,6 @@ module.exports = {
     ],
 
     themeConfig: {
-        repo: 'daqnext',
         docsRepo: 'daqnext/meson-docs',
         sidebarDepth: 3,
         docsDir: 'src',
@@ -99,23 +98,48 @@ module.exports = {
                     link: '/',
                 },
                 {
-                    text: 'Whitepaper',
-                    link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
-                },
-                {
                     text: '3.0-Explorer',
                     link: 'https://explorer.meson.network:1984/'
                 },
                 {
-                    text: 'Blog',
-                    link: 'https://blog.meson.network'
-                },
-                {
-                    text: 'Learn More',
+                    text: 'Resources',
                     children: [
+                        {
+                            text: 'Whitepaper',
+                            link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
+                        },
+                        {
+                            text: 'API',
+                            link: '/api.md'
+                        },
+                        {
+                            text: 'GitHub',
+                            link: 'https://github.com/daqnext'
+                        },
+                        {
+                            text: 'Status',
+                            link: 'https://status.meson.network'
+                        },
+                        {
+                            text: 'Media Kit',
+                            link: 'https://github.com/daqnext/brand-kit'
+                        },
                         {
                             text: 'Changelog',
                             link: '/changelog/',
+                        },
+                        {
+                            text: '🧱 Glossary',
+                            link: '/glossary.md',
+                        },
+                    ]
+                },
+                {
+                    text: 'Social Media',
+                    children: [
+                        {
+                            text: 'Blog',
+                            link: 'https://blog.meson.network'
                         },
                         {
                             text: 'Twitter',
@@ -140,14 +164,6 @@ module.exports = {
                         {
                             text: 'YouTube',
                             link: 'https://www.youtube.com/c/MesonNetwork'
-                        },
-                        {
-                            text: 'Media Kit',
-                            link: 'https://github.com/daqnext/brand-kit'
-                        },
-                        {
-                            text: 'Status',
-                            link: 'https://status.meson.network'
                         },
                     ]
                 },
@@ -183,6 +199,8 @@ module.exports = {
                             '/nodes/README.md',
                             '/nodes/run-meson-nodes.md',
                             '/nodes/run-meson-arm-nodes.md',
+                            '/msntt-transfer-101.md',
+                            '/meson-testtokens-to-ethereum.md',
                         ],
                     },
                     {
@@ -197,25 +215,6 @@ module.exports = {
                         ],
                     },
                     {
-                        text: '🌀 Open Source',
-                        collapsible: true,
-                        link: '/opensource.md',
-                    },
-                    {
-                        text: '💰 Manage a Wallet',
-                        collapsible: true,
-                        link: '/msntt-transfer-101.md',
-                        children: [
-                            '/msntt-transfer-101.md',
-                            '/meson-testtokens-to-ethereum.md',
-                        ],
-                    },
-                    {
-                        text: '⛰️ El Camino Real',
-                        collapsible: true,
-                        link: '/community.md',
-                    },
-                    {
                         text: '🔆 Case Studies',
                         collapsible: true,
                         children: [
@@ -223,14 +222,19 @@ module.exports = {
                         ],
                     },
                     {
+                        text: '🌀 Open Source',
+                        collapsible: true,
+                        link: '/opensource.md',
+                    },
+                    {
+                        text: '⛰️ El Camino Real',
+                        collapsible: true,
+                        link: '/community.md',
+                    },
+                    {
                         text: '🌍 Pricing',
                         collapsible: true,
                         link: '/pricing.md',
-                    },
-                    {
-                        text: '🧱 Glossary',
-                        collapsible: true,
-                        link: '/glossary.md',
                     },
                     {
                         text: '🌱 FAQ ',
@@ -252,23 +256,48 @@ module.exports = {
                     link: '/ru/',
                 },
                 {
-                    text: 'Whitepaper',
-                    link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
-                },
-                {
                     text: '3.0-Explorer',
                     link: 'https://explorer.meson.network:1984/'
                 },
                 {
-                    text: 'Blog',
-                    link: 'https://blog.meson.network'
-                },
-                {
-                    text: 'Learn More',
+                    text: 'Resources',
                     children: [
+                        {
+                            text: 'Whitepaper',
+                            link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
+                        },
+                        {
+                            text: 'API',
+                            link: '/api.md'
+                        },
+                        {
+                            text: 'GitHub',
+                            link: 'https://github.com/daqnext'
+                        },
+                        {
+                            text: 'Status',
+                            link: 'https://status.meson.network'
+                        },
+                        {
+                            text: 'Media Kit',
+                            link: 'https://github.com/daqnext/brand-kit'
+                        },
                         {
                             text: 'Changelog',
                             link: '/changelog/',
+                        },
+                        {
+                            text: '🧱 Glossary',
+                            link: '/ru/glossary.md',
+                        },
+                    ]
+                },
+                {
+                    text: 'Social Media',
+                    children: [
+                        {
+                            text: 'Blog',
+                            link: 'https://blog.meson.network'
                         },
                         {
                             text: 'Twitter',
@@ -293,14 +322,6 @@ module.exports = {
                         {
                             text: 'YouTube',
                             link: 'https://www.youtube.com/c/MesonNetwork'
-                        },
-                        {
-                            text: 'Media Kit',
-                            link: 'https://github.com/daqnext/brand-kit'
-                        },
-                        {
-                            text: 'Status',
-                            link: 'https://status.meson.network'
                         },
                     ]
                 },
@@ -386,68 +407,85 @@ module.exports = {
             '/tr/': {
                 selectLanguageName: 'Türkçe',
                 navbar: [
-                {
-                    text: 'Home',
-                    link: 'https://meson.network/',
-                },
-                {
-                    text: 'Guide',
-                    link: '/tr/',
-                },
-                {
-                    text: 'Whitepaper',
-                    link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
-                },
-                {
-                    text: '3.0-Explorer',
-                    link: 'https://explorer.meson.network:1984/'
-                },
-                {
-                    text: 'Blog',
-                    link: 'https://blog.meson.network'
-                },
-                {
-                    text: 'Learn More',
-                    children: [
-                        {
-                            text: 'Changelog',
-                            link: '/changelog/',
-                        },
-                        {
-                            text: 'Twitter',
-                            link: 'https://twitter.com/NetworkMeson'
-                        },
-                        {
-                            text: 'Medium',
-                            link: 'https://medium.com/meson-network'
-                        },
-                        {
-                            text: 'Discord',
-                            link: 'https://discord.gg/z6YfSHDkmS'
-                        },
-                        {
-                            text: 'Telegram',
-                            link: 'https://t.me/mesonnetwork'
-                        },
-                        {
-                            text: 'Content2049',
-                            link: 'https://content2049.meson.network'
-                        },
-                        {
-                            text: 'YouTube',
-                            link: 'https://www.youtube.com/c/MesonNetwork'
-                        },
-                        {
-                            text: 'Media Kit',
-                            link: 'https://github.com/daqnext/brand-kit'
-                        },
-                        {
-                            text: 'Status',
-                            link: 'https://status.meson.network'
-                        },
-                    ]
-                },
-            ],
+                    {
+                        text: 'Home',
+                        link: 'https://meson.network/',
+                    },
+                    {
+                        text: 'Guide',
+                        link: '/tr/',
+                    },
+                    {
+                        text: '3.0-Explorer',
+                        link: 'https://explorer.meson.network:1984/'
+                    },
+                    {
+                        text: 'Resources',
+                        children: [
+                            {
+                                text: 'Whitepaper',
+                                link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
+                            },
+                            {
+                                text: 'API',
+                                link: '/api.md'
+                            },
+                            {
+                                text: 'GitHub',
+                                link: 'https://github.com/daqnext'
+                            },
+                            {
+                                text: 'Status',
+                                link: 'https://status.meson.network'
+                            },
+                            {
+                                text: 'Media Kit',
+                                link: 'https://github.com/daqnext/brand-kit'
+                            },
+                            {
+                                text: 'Changelog',
+                                link: '/changelog/',
+                            },
+                            {
+                                text: '🧱 Glossary',
+                                link: '/tr/glossary.md',
+                            },
+                        ]
+                    },
+                    {
+                        text: 'Social Media',
+                        children: [
+                            {
+                                text: 'Blog',
+                                link: 'https://blog.meson.network'
+                            },
+                            {
+                                text: 'Twitter',
+                                link: 'https://twitter.com/NetworkMeson'
+                            },
+                            {
+                                text: 'Medium',
+                                link: 'https://medium.com/meson-network'
+                            },
+                            {
+                                text: 'Discord',
+                                link: 'https://discord.gg/z6YfSHDkmS'
+                            },
+                            {
+                                text: 'Telegram',
+                                link: 'https://t.me/mesonnetwork'
+                            },
+                            {
+                                text: 'Content2049',
+                                link: 'https://content2049.meson.network'
+                            },
+                            {
+                                text: 'YouTube',
+                                link: 'https://www.youtube.com/c/MesonNetwork'
+                            },
+                        ]
+                    },
+                ],
             sidebar: {
                 '/changelog/': [
                     {
