@@ -1,4 +1,4 @@
-# API Library of Meson Network
+# API Library for Meson Network
 
 ::: tip Preparation
 After you have registered your account in [Meson Network's dashboard](https://dashboard.meson.network/user_node), you will get a Token 🔐. It is the same token you use to deploy your nodes.
