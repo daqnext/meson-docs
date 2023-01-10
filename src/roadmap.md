@@ -30,7 +30,7 @@
             <h4>Ship the production version</h4>
         </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2022" placement="top" :hollow="true" type="primary">
+    <el-timeline-item timestamp="2022-2023" placement="top" :hollow="true" type="primary">
         <el-card>
             <h4>Mainnet-1.0: ERC20-based network</h4>
             <p>Launch the first mainnet version of Meson Network on Ethereum. Users can start trading bandwidth resources on Meson upon our launch.</p>
