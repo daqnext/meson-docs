@@ -1,6 +1,6 @@
 # Meson Cloud
 
->Meson Cloud is a Web3 application layer built on Meson's bandwidth marketplace.
+>Meson Cloud is a Web3 application layer that utilizes Meson's bandwidth marketplace as its foundation.
 
 ## Gateway X
 
