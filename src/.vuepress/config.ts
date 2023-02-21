@@ -215,6 +215,15 @@ module.exports = {
                         ],
                     },
                     {
+                        text: '🌟 Meson Cloud',
+                        collapsible: true,
+                        link: '/mcloud/README.md',
+                        children: [
+                            '/mcloud/README.md',
+                            '/mcloud/gatewayx.md',
+                        ],
+                    },
+                    {
                         text: '🔆 Case Studies',
                         collapsible: true,
                         children: [

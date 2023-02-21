@@ -4,13 +4,13 @@
 
 ## Gateway X
 
-Gateway X is a gateway for IPFS/Arweave that utilizes the Meson Cloud infrastructure.
+Gateway X, provided by Meson Cloud Services, is a Gateway Service that functions as a bridge between Web3 such as IPFS/Arweave and traditional Web2.
 
 - **Unlimited Storage**
 
 Gateway X offers users ***unlimited*** storage capacity for caching and charges based on bandwidth usage.
 
-- **Exclusive Gateway**
+- **Dedicated Gateway**
 
 Gateway X provides a dedicated gateway connection, supports multiple ***Web3 Domain Name Service*** resolution acceleration services, and facilitates seamless interaction with the conventional Internet.
 
