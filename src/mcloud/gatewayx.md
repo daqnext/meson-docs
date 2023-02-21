@@ -4,7 +4,7 @@
 
 ## Create Gateway X
 
-Click `Gateway X`, check out the `New Gateway`.
+Click `Gateway X`, click on `New Gateway` to start creating a new one.
 
 ![](./images/gatewayx-01.png)
 
@@ -45,14 +45,75 @@ Moreover, Gateway X allows for the backup of IPFS data in Filecoin storage trans
 
 In addition, Gateway X leverages high-performing infrastructure, including the Meson Network, to offer top-quality IPFS/Arweave implementations. The platform's IPFS/Arweave HTTP gateway boasts a higher number of points of presence (POPs) and cache capacity than many other public gateways, further improving the overall performance and reliability of the service.
 
-|  | GatewayX | Pinata | Web3.storage | Filebase |
-| --- | --- | --- | --- | --- |
-| Local Storage Support | yes | no | no | no |
-| Exclusive Upload Gateway | yes | no | no | no |
-| Total PoPs | 3W+ | 200+ | 200+ | 200+ |
-| Total Files pinned | Unlimited | Limited | Limited | Limited |
-| Requests | Unlimited | Limited | Limited | Limited |
-| Dedicated Gateway Bandwidth | Unlimited | Limited | Limited | Limited |
-| Replicated onto Filecoin | yes | no | yes | no |
-| IPFS/Arweave Support | yes | no | no | no |
-| File Cache | 1G | 512 MB | 512 MB | 512 MB |
+<table>
+    <tr>
+        <td></td>
+        <td align="center" width="100">GatewayX</td>
+        <td align="center" width="100">Pinata</td>
+        <td align="center" width="100">Web3.storage</td>
+        <td align="center" width="100">Filebase</td>
+    </tr>
+    <tr>
+        <td align="center">Local Storage Support</td>
+        <td align="center">yes</td>
+        <td align="center">no</td>
+        <td align="center">no</td>
+        <td align="center">no</td>
+    </tr>
+    <tr>
+        <td align="center">Exclusive Upload Gateway</td>
+        <td align="center">yes</td>
+        <td align="center">no</td>
+        <td align="center">no</td>
+        <td align="center">no</td>
+    </tr>
+    <tr>
+        <td align="center">Total PoPs</td>
+        <td align="center">3W+</td>
+        <td align="center">200+</td>
+        <td align="center">200+</td>
+        <td align="center">200+</td>
+    </tr>
+    <tr>
+        <td align="center">Total Files pinned</td>
+        <td align="center">Unlimited</td>
+        <td align="center">Limited</td>
+        <td align="center">Limited</td>
+        <td align="center">Limited</td>
+    </tr>
+    <tr>
+        <td align="center">Requests</td>
+        <td align="center">Unlimited</td>
+        <td align="center">Limited</td>
+        <td align="center">Limited</td>
+        <td align="center">Limited</td>
+    </tr>
+    <tr>
+        <td align="center">Dedicated Gateway Bandwidth</td>
+        <td align="center">Unlimited</td>
+        <td align="center">Limited</td>
+        <td align="center">Limited</td>
+        <td align="center">Limited</td>
+    </tr>
+    <tr>
+        <td align="center">Replicated onto Filecoin</td>
+        <td align="center">yes</td>
+        <td align="center">no</td>
+        <td align="center">yes</td>
+        <td align="center">no</td>
+    </tr>
+    <tr>
+        <td align="center">IPFS/Arweave Support</td>
+        <td align="center">yes</td>
+        <td align="center">no</td>
+        <td align="center">no</td>
+        <td align="center">no</td>
+    </tr>
+    <tr>
+        <td align="center">File Cache</td>
+        <td align="center">1G</td>
+        <td align="center">512 MB</td>
+        <td align="center">512 MB</td>
+        <td align="center">512 MB</td>
+    </tr>
+</table>
