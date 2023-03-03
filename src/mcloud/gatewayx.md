@@ -48,10 +48,10 @@ In addition, Gateway X leverages high-performing infrastructure, including the M
 <table>
     <tr>
         <td></td>
-        <td align="center" width="120"><B>Gateway X</B></td>
-        <td align="center" width="100"><B>Pinata</B></td>
-        <td align="center" width="100"><B>Web3.storage</B></td>
-        <td align="center" width="100"><B>Filebase</B></td>
+        <td align="center" width="120">Gateway X</td>
+        <td align="center" width="100">Pinata</td>
+        <td align="center" width="100">Web3.storage</td>
+        <td align="center" width="100">Filebase</td>
     </tr>
     <tr>
         <td align="center">Local Storage Support</td>
