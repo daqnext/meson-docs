@@ -4,7 +4,7 @@
 
 ## Gateway X
 
-Gateway X, provided by Meson Cloud Services, is a Gateway Service that functions as a bridge between Web3 such as IPFS/Arweave and traditional Web2.
+Gateway X, provided by Meson Cloud Services, is a Gateway Service that functions as a bridge between Web3 such as Arweave/IPFS and traditional Web2.
 
 - **Unlimited Storage**
 
@@ -16,7 +16,7 @@ Gateway X provides a dedicated gateway connection, supports multiple ***Web3 Dom
 
 - **One-click Import**
 
-Gateway X offers ***one-click migration / backup*** for IPFS & Arweave files. It allows easy pinning of IPFS & Arweave stored files to both Meson Cloud and the user's local storage, guaranteeing the permanent storage of NFTs and other files.
+Gateway X offers ***one-click migration / backup*** for Arweave & IPFS files. It allows easy pinning of Arweave & IPFS stored files to both Meson Cloud and the user's local storage, guaranteeing the permanent storage of NFTs and other files.
 
 ![](./images/GatewayX.svg)
 
@@ -48,7 +48,7 @@ The underlying protocol eliminates the need for a platform carrier, enabling mul
 
 - **Multi-protocol support**
 
-Support IPFS, Arweave, Bittorrent, and other P2P transmission protocols, and use GatewayX to improve retrieval speed.
+Support Arweave, IPFS, Bittorrent, and other P2P transmission protocols, and use GatewayX to improve retrieval speed.
 
 - **Censorship Resistance**
 

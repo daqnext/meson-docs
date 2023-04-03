@@ -178,3 +178,14 @@ That is to change the configuration to tell your router this IP is connected wit
 References: [https://en.wikipedia.org/wiki/Network_address_translation](https://en.wikipedia.org/wiki/Network_address_translation)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2G1ueMDgwxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What is the exchange rate from USD to Meson Credit?
+
+The exchange rate set by the platform is `1 USD = 1 Meson Credit`, using the "Pay as you go" charging method.
+
+## What should I pay attention to when recharging Meson?
+
+- Card payments are processed through Stripe and credited in real-time.
+- Crypto payments are processed through Coinbase Pay. If the user pays through Coinbase, the credit will be credited in real-time. If paying on-chain, it will require waiting for the blockchain to sync (confirmation time for Ethereum/Polygon is typically around 10 minutes).
+
+If you encounter any problems, you can communicate directly with core developers in the `#🧐dev-suggestions` channel of the [Meson Discord Server](https://discord.com/invite/z6YfSHDkmS).

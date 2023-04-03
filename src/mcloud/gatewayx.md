@@ -1,6 +1,6 @@
 # Gateway X 101
 
->Gateway X is a gateway for IPFS/Arweave that utilizes the Meson Cloud infrastructure.
+>Gateway X is a gateway for Arweave / IPFS that utilizes the Meson Cloud infrastructure.
 
 ## Create Gateway X
 
@@ -37,13 +37,13 @@ Open the client and use it to start uploading.
 
 ## Comparison
 
-How can Gateway X be distinguished from other hosted services that employ IPFS and Arweave in terms of advantages?
+How can Gateway X be distinguished from other hosted services that employ Arweave and IPFS in terms of advantages?
 
-Gateway X is a web3 storage solution that provides several advantages over other hosted services that utilize IPFS and Arweave. One of the most significant benefits of Gateway X is its scalability. The platform is designed to ensure robust performance and dependability, even when dealing with vast amounts of data, thus offering users the ability to rely on it both currently and in the future.
+Gateway X is a web3 storage solution that provides several advantages over other hosted services that utilize Arweave and IPFS. One of the most significant benefits of Gateway X is its scalability. The platform is designed to ensure robust performance and dependability, even when dealing with vast amounts of data, thus offering users the ability to rely on it both currently and in the future.
 
 Moreover, Gateway X allows for the backup of IPFS data in Filecoin storage transactions, providing secure storage and facilitating easy retrieval. In contrast, Arweave data is stored permanently and offers encrypted proof of storage, thus enhancing the security and reliability of the stored data.
 
-In addition, Gateway X leverages high-performing infrastructure, including the Meson Network, to offer top-quality IPFS/Arweave implementations. The platform's IPFS/Arweave HTTP gateway boasts a higher number of points of presence (POPs) and cache capacity than many other public gateways, further improving the overall performance and reliability of the service.
+In addition, Gateway X leverages high-performing infrastructure, including the Meson Network, to offer top-quality Arweave and IPFS implementations. The platform's Arweave and IPFS HTTP gateway boasts a higher number of points of presence (POPs) and cache capacity than many other public gateways, further improving the overall performance and reliability of the service.
 
 <table>
     <tr>
