@@ -189,3 +189,47 @@ The exchange rate set by the platform is `1 USD = 1 Meson Credit`, using the "Pa
 - Crypto payments are processed through Coinbase Pay. If the user pays through Coinbase, the credit will be credited in real-time. If paying on-chain, it will require waiting for the blockchain to sync (confirmation time for Ethereum/Polygon is typically around 10 minutes).
 
 If you encounter any problems, you can communicate directly with core developers in the `#🧐dev-suggestions` channel of the [Meson Discord Server](https://discord.com/invite/z6YfSHDkmS).
+
+## How to Add a Meson Cloud to Home Screen on iOS and Android?
+
+## Add a Meson to Home Screen on iOS
+
+**1.** Navigate to the **Safari** icon and tap to open the app.
+
+**2.** Tap on the **URL bar**.
+
+**3.** Now type the Meson Cloud address that you want to add to your home screen. And then hit the **go** button on your keyboard. 
+
+**4.** Tap the **Share** icon in the bottom navigation bar.
+
+**5.** Scroll up through the list of options, and tap on the **Add to Home Screen** button.
+
+![](./images/faq/ios-01.png)
+
+**6.** Now tap on **Add** to add the open website or web page to your iPhone’s home screen.
+
+![](./images/faq/ios-02.png)
+
+And the website’s shortcut will appear on your iPhone’s home screen. Next time, you just tap on the shortcut and it will take you directly to the website or the page you just added.
+
+## Add a Meson to Home Screen on Android
+
+**1.** Navigate to the **Chrome** browser on your Android smartphone and tap to open it.
+
+**2.** Tap on the **URL bar** to begin.
+
+**3.** Type the address of the Meson Cloud and then tap on **Go**. 
+
+**4.** Once the Meson Cloud loads up, tap on the **kebab menu** to expand the options.
+
+**5.** Tap on **Add to Home screen**.
+
+![](./images/faq/android-01.png)
+
+**6.** Now tap on **Add**.
+
+**7.** A pop-up menu will again appear, tap on **Add** to add the website to the home screen.
+
+![](./images/faq/android-02.png)
+
+And the website will now appear on the home screen of your Android smartphone.

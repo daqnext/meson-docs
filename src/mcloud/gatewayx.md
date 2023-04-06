@@ -35,6 +35,7 @@ Open the client and use it to start uploading.
 
 ![](./images/gatewayx-06.png)
 
+- [How to Add a Meson Cloud to Home Screen on iOS and Android?](https://docs.meson.network/faq.html#how-to-add-a-meson-cloud-to-home-screen-on-ios-and-android)
 ## Comparison
 
 How can Gateway X be distinguished from other hosted services that employ Arweave and IPFS in terms of advantages?
