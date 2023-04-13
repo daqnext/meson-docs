@@ -31,7 +31,7 @@ Click `Uploading`, select `Uploading + Local` or `Uploading + Cloud`.
 
 Open the client and use it to start uploading.
 
-![](./images/gatewayx-07.png)
+![](./images/gatewayx-08.png)
 
 ![](./images/gatewayx-06.png)
 
