@@ -1,4 +1,8 @@
-# mCloud On-Demand Pricing
+# ☁️ mCloud On-Demand Pricing
+
+  <style type="text/css">
+  .el-table__header, .el-table__body { margin: 0; }
+  </style>
 
   <el-table :data="tableData" :default-sort="{ prop: 'rate', order: 'descending' }" style="width: 100%">
     <el-table-column prop="instance" label="Instance" sortable width="122" />
