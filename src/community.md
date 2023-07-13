@@ -25,6 +25,24 @@
 
 ## Events
 
+###  Founders Forum @ Web3 KYOTO / Jun 29, 2023
+
+![](./images/community/events/f2161bcc-30ec-4d79-b447-94de87a6d365.webp)
+
+[Twitter](https://twitter.com/NetworkMeson/status/1674052054019457024) | [LuMa](https://lu.ma/u8tv45le)
+
+###  TIPINCON 2023 & GAGAPRO Launch Day / May 5, 2023
+
+![](./images/community/events/tipincon-2023.png)
+
+[Twitter](https://twitter.com/NetworkMeson/status/1652165301927309313) | [YouTube](https://www.youtube.com/live/dOY7LemMLo4?feature=share)
+
+###  TIPINCON 2022 & GAGA Launch Day / Dec 20, 2022
+
+![](./images/community/events/tipincon-2022.png)
+
+[Twitter](https://twitter.com/NetworkMeson/status/1603377336623443973) | [YouTube](https://www.youtube.com/watch?v=8HlgFSTgmsw)
+
 ###  The Retrieval Market Summit at LabWeek22 / Oct 13, 2022
 
 ![](./images/community/events/the-retrieval-market-summit.webp)
@@ -231,6 +249,12 @@
 
 ## AMA / Podcasts
 
+### Building a Decentralized Future: Empowering the Internet with Meson Network / Jun 13, 2023
+
+![](./images/community/ama/TIPIN_PROJECT_MESON.jpeg)
+
+[Twitter](https://twitter.com/TIPIN_PROJECT/status/1663191467060346883)
+
 ### ArCast / Oct 19, 2022
 
 ![](./images/community/ama/arcast-meson.jpeg)
@@ -285,6 +309,12 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a> is a decentralized CDN without censorship. May work!</p>&mdash; Suji Yan - Mask is hiring (@suji_yan) <a href="https://twitter.com/suji_yan/status/1451653667245932544?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote>
 
 ## Trends
+
+### The Essential Guide to Decentralized Storage Networks / Jan 12, 2023
+
+![The Essential Guide to Decentralized Storage Networks](./images/community/twitter/the-essential-guide-to-decentralized-storage-networks.jpeg)
+
+[Twitter](https://twitter.com/Old_Samster/status/1613590277742284802)
 
 ### Binance Research Crypto Industry Map / Nov 14, 2022
 
