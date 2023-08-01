@@ -30,17 +30,6 @@ Meson allows its Token holders to vote on development or modification of paramet
 
 ![](./images/token/meson-token-metrics.png)
 
-## Token Unlock Plan
-
-- 10% of the sold tokens in the Public Round are directly circulating.
-- Tokens reserved for the technical team are fully locked initially and will be linearly unlocked monthly over 3 years starting from the 6th month after the MainNet goes live.
-- Tokens reserved for Foundation, Partners, and Community are fully locked and will be linearly unlocked monthly over 3 years after the MainNet goes live.
-- Tokens sold in the Seed Round will be linearly unlocked monthly over 18 months after the MainNet goes live.
-- Tokens sold in the Private Round will be linearly unlocked monthly over 12 months after the MainNet goes live.
-- TestNet Tokens will be mapped to 1% of all the tokens on MainNet and are directly circulating after the MainNet goes live.
-
-![](./images/token/meson-supply-curve.png)
-
 ## Token Functions
 
 - Miners get Token rewards after joining the meson network and devoting their server resources.
