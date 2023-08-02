@@ -32,17 +32,6 @@ Meson, Token sahiplerinin protokolün parametrelerinin geliştirilmesi veya değ
 
 ![](./src/../../images/token/meson-token-metrics.png)
 
-## Token kilit açma planı
-
-- Halka Açık Turda satılan jetonların %10’u doğrudan dolaşımdadır.
-- Teknik ekip için ayrılan tokenler başlangıçta tamamen kilitlidir ve MainNet’in yayına girmesinden sonraki 6. aydan başlayarak 3 yıl boyunca aylık olarak doğrusal şekilde açılır.
-- Kuruluş, Ortaklar ve Topluluk için ayrılan tokenler tamamen kilitlidir ve MainNet’in yayınlanmasından sonra 3 yıl boyunca aylık olarak doğrusal şekilde açılır.
-- Tohum Turunda satılan tokenlerin kilidi, MainNet’in yayınlanmasından sonra 18 ay boyunca aylık olarak doğrusal şekilde açılacaktır.
-- Özel Turda satılan tokenlerin kilidi, MainNet’in yayınlanmasından sonra 12 ay boyunca aylık olarak doğrusal şekilde açılacaktır.
-- Test Ağı Tokenleri, MainNet’teki tüm tokenlerin %1’i ile eşleştirilecek ve MainNet yayına girdikten sonra doğrudan dolaşıma girecek.
-
-![](./src/../../images/token/meson-supply-curve.png)
-
 ## Token işlevleri
 
 - Madenciler, meson ağına katıldıktan ve sunucu kaynaklarını tahsis ettikten sonra Token ödüllerini alırlar.
