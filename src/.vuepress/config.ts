@@ -212,6 +212,7 @@ module.exports = {
                             '/using/meson-enhances-arweave.md',
                             '/using/meson-enhances-wordpress.md',
                             '/using/meson-enhances-jamstack.md',
+                            '/using/Meson-enhances-lighthouse-storage.md',
                         ],
                     },
                     {
@@ -374,6 +375,7 @@ module.exports = {
                             '/ru/using/meson-enhances-arweave.md',
                             '/ru/using/meson-enhances-wordpress.md',
                             '/ru/using/meson-enhances-jamstack.md',
+                            '/ru/using/Meson-enhances-lighthouse-storage.md',
                         ],
                     },
                     {
@@ -534,6 +536,7 @@ module.exports = {
                             '/tr/using/meson-enhances-arweave.md',
                             '/tr/using/meson-enhances-wordpress.md',
                             '/tr/using/meson-enhances-jamstack.md',
+                            '/tr/using/Meson-enhances-lighthouse-storage.md',
                         ],
                     },
                     {

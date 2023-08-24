@@ -4,7 +4,8 @@
 
 ### **giriiş**
 
-Dijital verilerle tanımlanan bir çağda, güvenilir ve kalıcı bir dosya depolama çözümü çok önemlidir. **Lighthouse**, uzun vadeli için tasarlanmış bir depolama modeli sunarak bu alanda lider konumdadır. Lighthouse'un IPFS'ye güvenmesi, çok sayıda Filecoin madencisinde yaygın dosya çoğaltmaları sağlayarak veri güvenilirliğini etkili bir şekilde artırır ve sürdürülebilir, uzun vadeli depolamanın nüanslarını basitleştirir.
+Dijital verilerin tanımladığı bir çağda, güvenilir ve kalıcı bir dosya depolama çözümü çok önemlidir. **Lighthouse**, uzun vadeli depolama için tasarlanmış bir depolama modeli sunarak bu alanda lider olarak ortaya çıkıyor. Filecoin ağının ve IPFS içerik adresleme sisteminin madenci ağını ve depolama kapasitesini kullanır.
+Lighthouse'un IPFS'ye olan güveni, Filecoin madencilerinin kalıcı olarak depolanmasıyla kurcalamaya ve sansüre karşı dayanıklı dosya depolama sağlar, etkili bir şekilde veri güvenilirliği sağlar ve sürdürülebilir, uzun vadeli ve sürekli depolamanın nüanslarını basitleştirir.
 
 Ancak, her teknoloji bir performans geliştirmesinden yararlanabilir. Lighthouse'tan içerik tesliminize ekstra bir destek ekleyen bir önbellek katmanı olan **Meson'a** girin. Bu eğitimde, içerik sunumunuzu optimize etmek için Meson'u Lighthouse ile entegre etme konusunda size yol göstereceğiz.
 

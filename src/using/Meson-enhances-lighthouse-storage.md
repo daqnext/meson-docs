@@ -4,8 +4,10 @@
 
 ### **Introduction**
 
-In an era defined by digital data, a reliable and enduring file storage solution is of paramount importance. **Lighthouse** emerges as a front-runner in this domain, offering a storage model designed for the long haul. Lighthouse's reliance on IPFS ensures widespread file replications across a myriad of Filecoin miners, effectively bolstering data reliability and simplifying the nuances of sustainable, long-term storage. 
+In an era defined by digital data, a reliable and persistent file storage solution is paramount. **Lighthouse** emerges as a front-runner in this domain, offering a storage model designed for long-term storage. It uses the miner network and storage capacity of the filecoin network and IPFS content-addressing system. Lighthouse's reliance on IPFS ensures tamper-proof and censorship-resistant file storage with persistent storage of Filecoin miners, effectively providing data reliability and simplifying the nuances of sustainable, long-term, and perpetual storage.
+
 However, every technology can benefit from a performance enhancement. Enter **Meson**, a cache layer that adds an extra boost to your content delivery from Lighthouse. In this tutorial, we'll walk you through integrating Meson with Lighthouse to optimize your content delivery.
+
 
 ### **1. Understanding Lighthouse**
 
