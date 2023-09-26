@@ -12,11 +12,11 @@ Register and Login to MCDN dashboard
 
 ![](./images/mcdn/mcdn-1.png)
 
-## Crate Pull Zone
+## Create Pull Zone
 
 To set up a MCDN Pull Zone, follow the steps outlined below:
 
-1. In the left navigation sidebar click ****Pull Zone****. Click ****Crate Pull Zone****.
+1. In the left navigation sidebar click ****Pull Zone****. Click ****Create Pull Zone****.
 
 ![](./images/mcdn/mcdn-2.png)
 
@@ -52,7 +52,7 @@ When you create a new site on MCDN, it’s instantly secured at the Default Doma
 
 3. Verifying your custom domain
 
-Follow the instructions under "Add a DNS `CNAME` record" to create the `CNAME` record with your domain hosting service.Wait for your DNS configuration to change, this may be immediate or take up to 24 hours.After confirming that your DNS configuration has updated, you can verify the domain. 
+Follow the instructions under "Add a DNS `CNAME` record" to create the `CNAME` record with your domain hosting service. Wait for your DNS configuration to change, this may be immediate or take up to 24 hours. After confirming that your DNS configuration has updated, you can verify the domain. 
 
 ![](./images/mcdn/mcdn-9.png)
 
