@@ -66,7 +66,7 @@ Decentralized Content Delivery Network (DCDN) is a decentralized CDN that empowe
 
 ### Arweave
 
-Arweave is a fully decentralized network.All of the connected sites and apps on the Arweave network are what is called the permaweb. 
+Arweave is a fully decentralized network. All of the connected sites and apps on the Arweave network are what is called the permaweb. 
 
 The permaweb is a parallel to the traditional web, but the content is permanent and the power dynamics put the user in control. This means you won’t be encountering 404s and that you can be sure that once you’ve found a page on the permaweb, it will still be there years later.
 
@@ -80,7 +80,7 @@ The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for
 
 Filecoin is a peer-to-peer network that stores files, with built-in economic incentives to ensure files are stored reliably over time.
 
-In Filecoin, users pay to store their files on storage providers. Storage providers are computers responsible for storing files and proving they have stored the files correctly over time. Anyone who wants to store their files or get paid for storing other users’ files can join Filecoin. Available storage, and the price of that storage, is not controlled by any single company. Instead, Filecoin facilitates open markets for storing and retrieving files that anyone can participate in.
+In Filecoin, users pay to store their files on storage providers. Storage providers are computers responsible for storing files and proving they have stored the files correctly over time. Anyone who wants to store their files or get paid for storing other users’ files can join Filecoin. Available storage, and the price of that storage, are not controlled by any single company. Instead, Filecoin facilitates open markets for storing and retrieving files that anyone can participate in.
 
 #### IPFS and Filecoin
 
