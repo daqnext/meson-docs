@@ -89,7 +89,7 @@ sudo yum update -y && yum install -y ca-certificates -y
 
 - [2.8 HTTPS (SSL/TLS) Options - Documentation](https://www.gnu.org/software/wget/manual/html_node/HTTPS-_0028SSL_002fTLS_0029-Options.html)
 
-## How to changing RedHat SELinux states?
+## How to change RedHat SELinux states?
 
 SELinux can run in one of three modes: enforcing, permissive, or disabled.
 
