@@ -57,7 +57,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Arweave</h4>
-            <p>Meson Network support store data, permanently.</p>
+            <p>Meson Network supports store data, permanently.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://www.arweave.org/?utm_source=mesonnetwork">Open Arweave</a>
@@ -69,7 +69,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Mask</h4>
-            <p>Meson Network support bridge from Web2.0 to Web3.0.</p>
+            <p>Meson Network supports bridge from Web2.0 to Web3.0.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://mask.io/?utm_source=mesonnetwork">Open Mask</a>
@@ -81,7 +81,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Matters</h4>
-            <p>Meson Network support the next decentralized content ecosystem.</p>
+            <p>Meson Network supports the next decentralized content ecosystem.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://matters.news/?utm_source=mesonnetwork">Open Matters</a>
@@ -93,7 +93,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>RSS3</h4>
-            <p>Meson Network support the open information syndication protocol in Web3.</p>
+            <p>Meson Network supports the open information syndication protocol in Web3.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://rss3.io/?utm_source=mesonnetwork">Open RSS3</a>
@@ -117,7 +117,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Cyberconnect</h4>
-            <p>Meson Network support the social graph in Web3.</p>
+            <p>Meson Network supports the social graph in Web3.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://cyberconnect.me/?utm_source=mesonnetwork">Open Cyberconnect</a>
@@ -141,7 +141,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Koii Network</h4>
-            <p>Meson Network support decentralized publishing protocol and Web3 library.</p>
+            <p>Meson Network supports decentralized publishing protocol and Web3 library.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://koii.network/?utm_source=mesonnetwork">Open Koii Network</a>
@@ -153,7 +153,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Crust Network</h4>
-            <p>Meson Network support Web3 industry a turn key solution.</p>
+            <p>Meson Network supports Web3 industry a turn key solution.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://crust.network/?utm_source=mesonnetwork">Open Crust Network</a>
@@ -165,7 +165,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>ShowMe</h4>
-            <p>Meson Network support NFT social subscription platform in Web3.</p>
+            <p>Meson Network supports NFT social subscription platform in Web3.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://showme.fan/?utm_source=mesonnetwork">Open ShowMe</a>
@@ -177,7 +177,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Permacast</h4>
-            <p>Meson Network support Web3 Podcast hosting platform.</p>
+            <p>Meson Network supports Web3 Podcast hosting platform.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://permacast.dev/?utm_source=mesonnetwork">Open Permacast</a>
@@ -189,7 +189,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Ultiverse</h4>
-            <p>Meson Network supporting the social gaming metaverse in Web3.</p>
+            <p>Meson Network supports the social gaming metaverse in Web3.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://www.ultiverse.io/?utm_source=mesonnetwork">Open Ultiverse</a>
@@ -201,7 +201,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Port3</h4>
-            <p>Meson Network support the Gateway to Web3 Social Graph.</p>
+            <p>Meson Network supports the Gateway to Web3 Social Graph.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://www.port3.io/?utm_source=mesonnetwork">Open Port3</a>
@@ -213,7 +213,7 @@ Feel free to submit yours in Let us know!
         </span>
         <span class="description">
             <h4>Decent.Land</h4>
-            <p>Meson Network supporting the Social infrastructure for Web3.</p>
+            <p>Meson Network supports the Social infrastructure for Web3.</p>
         </span>
         <span class="link">
             <a target="_blank" href="https://www.decent.land/?utm_source=mesonnetwork">Open Decent.Land</a>
