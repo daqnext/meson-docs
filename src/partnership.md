@@ -55,21 +55,25 @@
 ## Partners
 
 <p class="grid">
-    <span><img alt="Mask Network" src="./images/sponsors/mask.svg"></span>
+    <span><img alt="bsc" src="./images/sponsors/partners/bsc.svg"></span>
+    <span><img alt="filecoin" src="./images/sponsors/partners/filecoin.svg"></span>
     <span><img alt="Arweave" src="./images/sponsors/arweave.svg"></span>
+    <span><img alt="okc" src="./images/sponsors/partners/okc.svg"></span>
+    <span><img alt="phantom" src="./images/sponsors/partners/phantom.svg"></span>
+    <span><img alt="Mask Network" src="./images/sponsors/mask.svg"></span>
+    <span><img alt="Cyberconnect" src="./images/sponsors/partners/cyberconnect.svg"></span>
     <span><img alt="Matters" src="./images/sponsors/partners/matters.svg"></span>
     <span><img alt="RSS3" src="./images/sponsors/partners/rss3.svg"></span>
-    <span><img alt="Cyberconnect" src="./images/sponsors/partners/cyberconnect.svg"></span>
-    <span><img alt="ShowMe" src="./images/sponsors/partners/okc.svg"></span>
+    <span><img alt="Cyberconnect" src="./images/sponsors/partners/lighthouse.svg"></span>
     <span><img alt="Crust Network" src="./images/sponsors/partners/crust.svg"></span>
-    <span><img alt="Crust Network" src="./images/sponsors/partners/phantom.svg"></span>
     <span><img alt="Permacast" src="./images/sponsors/partners/permacast.svg"></span>
     <span><img alt="Koii" src="./images/sponsors/partners/koii.svg"></span>
     <span><img alt="ShowMe" src="./images/sponsors/partners/showme.svg"></span>
-    <span><img alt="ShowMe" src="./images/sponsors/partners/ultiverse.svg"></span>
-    <span><img alt="ShowMe" src="./images/sponsors/partners/decentland.svg"></span>
-    <span><img alt="ShowMe" src="./images/sponsors/partners/port3.svg"></span>
-    <span><img alt="ShowMe" src="./images/sponsors/partners/nftscan.svg"></span>
+    <span><img alt="spheron" src="./images/sponsors/partners/spheron.svg"></span>
+    <span><img alt="ultiverse" src="./images/sponsors/partners/ultiverse.svg"></span>
+    <span><img alt="decentland" src="./images/sponsors/partners/decentland.svg"></span>
+    <span><img alt="port3" src="./images/sponsors/partners/port3.svg"></span>
+    <span><img alt="nftscan" src="./images/sponsors/partners/nftscan.svg"></span>
 </p>
 
 ## Nodes
