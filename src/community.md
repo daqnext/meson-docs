@@ -25,6 +25,18 @@
 
 ## Events
 
+###  BNB Greenfield Unlocking True Data Ownership / Oct 13, 2023
+
+![](./images/community/events/bnb-greenfield-unlocking-true-data-ownership.jpeg)
+
+[Twitter](https://twitter.com/BNBCHAIN/status/1712468169158512775) | [Space](https://twitter.com/i/spaces/1vAxRvnrNqqxl)
+
+###  Builders Night @ Seoul / Sep 6, 2023
+
+![](./images/community/events/BuildersNight.jpeg)
+
+[Twitter](https://twitter.com/NetworkMeson/status/1698631374864105959) | [LuMa](https://lu.ma/buidlers)
+
 ###  Founders Forum @ Web3 KYOTO / Jun 29, 2023
 
 ![](./images/community/events/f2161bcc-30ec-4d79-b447-94de87a6d365.webp)
