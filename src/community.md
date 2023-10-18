@@ -25,6 +25,12 @@
 
 ## Events
 
+###  BNB Chain Tech Community Call / Oct 17, 2023
+
+![](./images/community/events/bnb-chain-tech-community-call.jpeg)
+
+[Twitter](https://twitter.com/BNBCHAIN/status/1714016286890398092) | [YouTube](https://www.youtube.com/watch?v=Xgv2kFFz9-o)
+
 ###  BNB Greenfield Unlocking True Data Ownership / Oct 13, 2023
 
 ![](./images/community/events/bnb-greenfield-unlocking-true-data-ownership.jpeg)
