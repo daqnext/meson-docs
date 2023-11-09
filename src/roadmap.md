@@ -22,27 +22,59 @@
             <img src="@source/images/roadmap/node-stats.png">
         </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2022" placement="top" :hollow="true" type="primary">
+    <el-timeline-item timestamp="2022" placement="top" :hollow="false" type="success">
         <el-card>
             <h4>Release the token model documentation</h4>
+            <p><a href="https://blog.meson.network/blog/2022-12-07-tokenomics-beta1">Tokenomics Beta1</a></p>
+            <img src="@source/images/roadmap/tokenomics-beta1.jpeg">
         </el-card>
         <el-card>
             <h4>Ship the production version</h4>
         </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2022-2023" placement="top" :hollow="true" type="primary">
+    <el-timeline-item timestamp="2023" placement="top" :hollow="false" type="success">
+        <el-card>
+            <h4>Launch Gaganode</h4>
+            <p>Residential bandwidth aggregator: <a href="https://www.gaganode.com/">https://www.gaganode.com/</a></p>
+            <img src="@source/images/roadmap/gaganode-running.png">
+        </el-card>
+        <el-card>
+            <h4>Launch IPCola</h4>
+            <p>Next generation infrastructure for unlimited data and intelligence: <a href="https://www.ipcola.com/">https://www.ipcola.com/</a></p>
+        </el-card>
+        <el-card>
+            <h4>Gateway X supports IPFS Images</h4>
+        </el-card>
+        <el-card>
+            <h4>Modify Gateway X to K8S</h4>
+        </el-card>
+        <el-card>
+            <h4>Launch Meson Explorer</h4>
+            <p><a href="https://explorer.meson.network:1984/">https://explorer.meson.network:1984/</a></p>
+        </el-card>
         <el-card>
             <h4>Mainnet-1.0: ERC20-based network</h4>
             <p>Launch the first mainnet version of Meson Network on Ethereum. Users can start trading bandwidth resources on Meson upon our launch.</p>
         </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2022-2023" placement="top" :hollow="true" type="primary">
+    <el-timeline-item timestamp="2024" placement="top" :hollow="true" type="primary">
         <el-card>
             <h4>Mainnet-2.0: Support the whole EVM-compatible bridges</h4>
             <p>Support various EVM-compatible chains, lower the threshold for users to use the network, and begin to integrate distributed home nodes as a complement to the network.</p>
         </el-card>
+        <el-card>
+            <h4>Support socks for Gaganode</h4>
+        </el-card>
+        <el-card>
+            <h4>Launch Bandwidth Exchange (Spot Market)</h4>
+            <a href="https://blog.meson.network/blog/2023-07-12-meson-vector-plan-v1"><h5>Meson Vector Plan</h5></a>
+            <img src="@source/images/roadmap/meson-vector-plan.png">
+        </el-card>
+        <el-card>
+            <h4>Launch Bandwidth Exchange (Derivative Market)</h4>
+        </el-card>
     </el-timeline-item>
-    <el-timeline-item timestamp="2023-2024" placement="top" :hollow="true" type="primary">
+    <el-timeline-item timestamp="2025" placement="top" :hollow="true" type="primary">
         <el-card>
             <h4>Mainnet-3.0: Meson Blockchain</h4>
             <p>
@@ -50,9 +82,6 @@
             Onboard the Developer / Cloud Service Provider / Telecom / Data Center.
             Serve the Images / Short Video / Long Video / Livestreaming / Downloading / Game.
             </p>
-        </el-card>
-        <el-card>
-            <h4>Battle for Web3: Infrastructure & Entry</h4>
         </el-card>
     </el-timeline-item>
     <el-timeline-item timestamp="..." placement="top" :hollow="true" type="info"></el-timeline-item>
