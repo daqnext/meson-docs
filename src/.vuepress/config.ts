@@ -199,8 +199,7 @@ module.exports = {
                             '/nodes/README.md',
                             '/nodes/run-meson-nodes.md',
                             '/nodes/run-meson-arm-nodes.md',
-                            '/msntt-transfer-101.md',
-                            '/meson-testtokens-to-ethereum.md',
+                            '/msn-to-goerlieth.md',
                         ],
                     },
                     {
