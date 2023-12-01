@@ -36,6 +36,8 @@ Complete the `Choose a chain` step, currently selecting GoerliETH.
 
 ![](./../images/../src/images/msn/msn06.png)
 
+
+
 Enter the amount of MSN Tokens to be claimed on GoerliETH.
 
 ![](./../images/../src/images/msn/msn07.png)
@@ -53,6 +55,21 @@ Click the `Get Token` button.
 ![](./../images/../src/images/msn/msn09.png)
 
 ![](./../images/../src/images/msn/msn10.png)
+
+
+For people who experienced this error:
+![image](https://github.com/daqnext/meson-docs/assets/123457728/7f979cb6-4fea-48a4-8c2c-6677ce47dae0)
+Get wallet address err 
+Use this guide:
+Change your browser > Ctrl+F5 > Sign in & Sign out then try again.
+
+
+For people having error in using hardware wallet:
+![image](https://github.com/daqnext/meson-docs/assets/123457728/923dfdc6-1ab4-4fbc-9cd7-cec718ed3a5c)
+err Error Forbidden Key path
+Use this guide:
+https://forum.trezor.io/t/how-to-fix-error-forbidden-key-path/8642/4
+
 
 You have now successfully claimed MSN on GoerliETH.
 
@@ -111,3 +128,5 @@ Enter the Token contract address as `0xc08c439c85bd3e65725d08c54fb6f2895436a649`
 Click `Import`, and you'll be able to view the claimed MSN in MetaMask.
 
 ![](./../images/../src/images/msn/msn25.png)
+
+
