@@ -51,7 +51,7 @@ All the Testnet Tokens will be mapped to 1% of the MainNet Tokens. According to 
 
 Your MainNet Tokens = (Your TestNet Tokens / All TestNet Tokens) * (1% * All MainNet Tokens) = (Your TestNet Tokens / All TestNet Tokens) * 1,000,000
 
->For example, let's assume there will be total 160,000,000 TestNet Tokens at last, and you have 2,000,000 TestNet Tokens that time, then you will get (2,000,000 / 160,000,000) * 1,000,000 = 125,000 MainNet Tokens.
+>For example, let's assume there will be total 160,000,000 TestNet Tokens at last, and you have 2,000,000 TestNet Tokens that time, then you will get (2,000,000 / 160,000,000) * 1,000,000 = 12,500 MainNet Tokens.
 
 ## How many TestNet Tokens will be distributed?
 
