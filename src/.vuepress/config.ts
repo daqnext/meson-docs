@@ -94,8 +94,8 @@ module.exports = {
                     link: 'https://meson.network/',
                 },
                 {
-                    text: 'API',
-                    link: '/api.md',
+                    text: 'Grants',
+                    link: '/meson-grants.md',
                 },
                 {
                     text: '3.0-Explorer',
