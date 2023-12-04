@@ -2,9 +2,9 @@
 
 The Meson BUILDer Program II (*New Asgard*) application process is structured in three essential steps:
 
-- **Application:** Begin the process by completing the application [Forms](https://t.co/ZGh5KXofiq), a quick step that should take just 2-3 minutes.
-- **Contribution:** It's your time to shine. This is where you get to demonstrate your unique talents and skills:
-- **Submission:** The final step entails submitting the achieved results through the [GitHub](https://github.com/daqnext/meson-grants/issues/new/choose).
+- **Application:** Begin the process by completing the application [Forms](https://t.co/ZGh5KXofiq), a quick step that should take just 2-3 minutes
+- **Contribution:** It's your time to shine. This is where you get to demonstrate your unique talents and skills
+- **Submission:** The final step entails submitting the achieved results through the [GitHub](https://github.com/daqnext/meson-grants/issues/new/choose)
 
 Each step is integral to the overall application journey.
 
@@ -42,4 +42,5 @@ Begin with the 1st Tier; once your contributions have been acknowledged and rewa
 You are welcome to apply at your convenience. However, please note that the 1st Tier offers a one-time reward for your community contributions, whereas the 2nd Tier provides ongoing rewards, contingent on meeting the set criteria.
 
 #### Where can I find the description for stages
-https://github.com/daqnext/meson-grants
+
+[https://github.com/daqnext/meson-grants](https://github.com/daqnext/meson-grants)
