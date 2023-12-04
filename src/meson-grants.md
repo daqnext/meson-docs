@@ -24,6 +24,7 @@ e.g.
 
 ## Contribution
 In this sector, you have the opportunity to leverage your talents for the benefit of the community. For instance, you could author articles or posts on platforms like Twitter or various forums, explaining Meson's significance and functions. Alternatively, you might opt to produce engaging vlogs about Meson as a YouTuber. Additionally, you can establish and manage Telegram or Discord groups to spread further awareness about Meson.
+
 Overall, we offer considerable flexibility in how you contribute, and your unique contributions are highly valued.
 
 ## Submission
@@ -40,3 +41,5 @@ Begin with the 1st Tier; once your contributions have been acknowledged and rewa
 #### Is it possible to apply for the same tier multiple times?
 You are welcome to apply at your convenience. However, please note that the 1st Tier offers a one-time reward for your community contributions, whereas the 2nd Tier provides ongoing rewards, contingent on meeting the set criteria.
 
+#### Where can I find the description for stages
+https://github.com/daqnext/meson-grants
