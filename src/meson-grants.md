@@ -7,10 +7,10 @@ The Meson BUILDer Program II (*New Asgard*) application process is structured in
 - **Submission:** The final step entails submitting the achieved results through the [GitHub](https://github.com/daqnext/meson-grants/issues/new/choose).
 
 Each step is integral to the overall application journey.
+
 ## Application
 
 Apply on Meson Website -> `Builder Application` or use the [forms](https://t.co/ZGh5KXofiq).
-
 
 ![](./images/grants/grants-01.png)
 
