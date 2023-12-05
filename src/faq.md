@@ -45,14 +45,6 @@ You need a server with at least 20GB storage and a public stable static ip is re
 - Token will be distributed on decentralized infrastructure, so everyone can literally own it and trade it.
 - We believe blockchain is such powerful that we can have the chance to build the world's biggest marketplace. It's crazy but it is just like any other unbridled achievement ^^
 
-## What is the difference in the current testing period?
-
-All the Testnet Tokens will be mapped to 1% of the MainNet Tokens. According to Token, there will be 100,000,000 initial Meson Tokens, of which there will be 1,000,000 Tokens are used as the exchange of TestNet Tokens.
-
-Your MainNet Tokens = (Your TestNet Tokens / All TestNet Tokens) * (1% * All MainNet Tokens) = (Your TestNet Tokens / All TestNet Tokens) * 1,000,000
-
->For example, let's assume there will be total 160,000,000 TestNet Tokens at last, and you have 2,000,000 TestNet Tokens that time, then you will get (2,000,000 / 160,000,000) * 1,000,000 = 12,500 MainNet Tokens.
-
 ## How many TestNet Tokens will be distributed?
 
 It is determined by the date when Meson will close the TestNet and launch into the MainNet. As a result, it is uncertain yet.
