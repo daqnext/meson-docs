@@ -48,8 +48,8 @@ Miners will get meson tokens as a reward while providing an idle server to meson
 
 ![](./images/token/meson-token-circulation.png)
 
-## Testnet Token Contract(MSNTT)
+## GoerliETH Testnet Token Contract(MSN)
 
-Ethereum Contract Address: 0x318b13467537f58890002847fe71eb2a74b6a5a5
+Ethereum(Goerli) Contract Address: 0xc08c439c85bd3e65725d08c54fb6f2895436a649
 
-Ethereum Contract: [Source Code](https://etherscan.io/address/0x318b13467537f58890002847fe71eb2a74b6a5a5)
+Ethereum(Goerli) Contract: [Source Code](https://goerli.etherscan.io/token/0xc08c439c85bd3e65725d08c54fb6f2895436a649)
