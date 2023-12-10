@@ -97,3 +97,21 @@ Enter the Token contract address as `0xc08c439c85bd3e65725d08c54fb6f2895436a649`
 Click `Import`, and you'll be able to view the claimed MSN in MetaMask.
 
 ![](./../images/../src/images/msn/msn25.png)
+
+## MSN Credit
+
+MSN Credits are the mechanism by which all Meson Network usage is paid for. In the future, these tokens will be utilized for the circulation of bandwidth, playing a crucial role in the development of the Meson Exchange.
+
+**MSN Credit Fundamentals**
+
+As an example, three MSN Credits are equivalent to one MSN based on the current exchange rate on the goerli testnet.
+
+`MSN => MSN_Credit swap ratio: 1:3`
+
+**Acquiring MSN Credits**
+
+At the network level, MSN Credits are generated solely through the conversion of MSN, a process that can be accomplished through `Onchain Swap`.
+
+::: tip 🚧 MSN CREDITS ARE NON-TRANSFERABLE
+After the completion of the MSN Credit mint transaction, the receiving wallet address possesses all of the MSN Credits and is unable to transfer them to any other wallet address.
+:::
