@@ -102,6 +102,8 @@ Click `Import`, and you'll be able to view the claimed MSN in MetaMask.
 
 MSN Credits are the mechanism by which all Meson Network usage is paid for. In the future, these tokens will be utilized for the circulation of bandwidth, playing a crucial role in the development of the Meson Exchange.
 
+![](./../images/../src/images/msn/tokenomics-beta1.png)
+
 **MSN Credit Fundamentals**
 
 As an example, three MSN Credits are equivalent to one MSN based on the current exchange rate on the goerli testnet.
