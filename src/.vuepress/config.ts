@@ -78,8 +78,10 @@ module.exports = {
     ],
 
     themeConfig: {
+        darkMode:false,
         docsRepo: 'daqnext/meson-docs',
         sidebarDepth: 3,
+        contributors: false,
         docsDir: 'src',
         logo: 'https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg',
         themePlugins: {
