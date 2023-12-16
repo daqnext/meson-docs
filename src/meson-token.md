@@ -19,15 +19,16 @@ Meson allows its Token holders to vote on development or modification of paramet
 
 ## Token Distribution
 
-- Community & Eco & Foundation: 40,000,000 Meson (40%)
-- Private Sale: 26,000,000 Meson (26%)
-- Team: 15,000,000 Meson (15%)
-- Strategic Partners: 10,000,000 Meson (10%)
-- Public Sale: 6,000,000 Meson (6%)
-- Airdrop: 2,000,000 Meson (2%)
-- TestNet: 1,000,000 Meson (1%)
+- Seed Token Sale: 6,000,000 Meson (6%)
+- Private Token Sale: 22,000,000 Meson (22%)
+- Public Token Sale: 10,000,000 Meson (10%)
+- Community & Ecosystem: 20,000,000 Meson (20%)
+- Foundation Reservation: 20,000,000 Meson (20%)
+- Technical Team: 15,000,000 Meson (15%)
+- Partners: 6,000,000 Meson (6%)
+- Test-Net Mapping: 1,000,000 Meson (1%)
 
-![](./images/token/tokenomics.png)
+![](./images/token/meson-token-metrics.png)
 
 ## Token Functions
 
