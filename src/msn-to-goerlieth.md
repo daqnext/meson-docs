@@ -1,4 +1,4 @@
-# MSN to GoerliETH 🐢
+# MSN to Goerli ETH 🐢
 
 >MSN (Meson Token) is now live on the GoerliETH Testnet, marking the beginning of a new round of testing for the MSN protocol. Join us in exploring and testing the latest features as we continue to enhance and refine the MSN experience.
 
@@ -106,7 +106,7 @@ MSN Credits are the mechanism by which all Meson Network usage is paid for. In t
 
 **MSN Credit Fundamentals**
 
-As an example, three MSN Credits are equivalent to one MSN based on the current exchange rate on the goerli testnet.
+As an example, three MSN Credits are equivalent to one MSN based on the current exchange rate on the Goerli.
 
 `MSN => MSN_Credit swap ratio: 1:3`
 
