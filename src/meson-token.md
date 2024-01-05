@@ -14,7 +14,7 @@ Meson allows its Token holders to vote on development or modification of paramet
 
 ## Token Details
 
-- Token Ticker: Meson(TBD)
+- Token Ticker: Meson(MSN)
 - Initial Supply: 100,000,000 Meson
 
 ## Token Distribution
