@@ -17,15 +17,15 @@ To deal with the gradual decline of the physical infrastructure, operators in va
 - Residential bandwidth
 - Commercial bandwidth
 
-The main difference between the two is that the residential bandwidth is shared by users. There is no independent public-static-IP. Compared with commercial bandwidth, although residential bandwidth is relatively cheap, it is too unstable to be used to support commercial services. The main buyers of commercial bandwidth come from CDN companies such as Google, Akamai, AWS, Aliyun, and other large Internet companies that will purchase a large amount of bandwidth from local operators and build server rooms to provide CDN services to the outside world. In the end, Internet companies will purchase these CDN services.
+The main difference between the two is that the residential bandwidth is shared by users. There is no independent public static IP. Compared with commercial bandwidth, although residential bandwidth is relatively cheap, it is too unstable to be used to support commercial services. The main buyers of commercial bandwidth come from CDN companies such as Google, Akamai, AWS, Aliyun, and other large Internet companies that will purchase a large amount of bandwidth from local operators and build server rooms to provide CDN services to the outside world. In the end, Internet companies will purchase these CDN services.
 
 Due to the large price asymmetry and time asymmetry between CDN companies, the CDN industry has a lot of idle resources. It is worth noting that the idle bandwidth rate of particularly large CDN vendors sometimes reaches 80%.
 
 ## Outlook for Web3.0
 
-Web2.0 companies that provide video streaming, online games and other stream services spend huge amounts of money on CDN every year, mainly due to the need to distribute a large amount of content to users at a high speed.
+Web2.0 companies that provide video streaming, online games and other streaming services spend huge amounts of money on CDN every year, mainly due to the need to distribute a large amount of content to users at a high speed.
 
-From the point of view of Web3.0, the financial transaction data of BTC and ETH was not very large before, but it has been growing at significant speeds. The aggregate of transaction data size of ETH comes to 1–2TB level, which is a small amount of data compared to the traditional Internet. However, with the advent of Web3.0, more user data is being generated, and demand for content and delivery speed from Metaverse and Gamefi is expected to grow exponentially. The volume of Web 3 data is exploding.
+From the point of view of Web3.0, the financial transaction data of BTC and ETH was not very large before, but it has been growing at significant speeds. The aggregate transaction data size of ETH comes to 1–2TB level, which is a small amount of data compared to the traditional Internet. However, with the advent of Web3.0, more user data is being generated, and demand for content and delivery speed from Metaverse and Gamefi is expected to grow exponentially. The volume of Web 3 data is exploding.
 
 ## The principle of Meson Network
 

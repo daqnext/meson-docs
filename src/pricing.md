@@ -1,6 +1,6 @@
 # 🌍 Pricing
 
-Meson 3.0 is a new generation of Meson Network which has lower deploy requirement and provides more stable services.
+Meson 3.0 is a new generation of Meson Network which has lower requirements and provides more stable services.
 
 <div class="pricing-table-wrapper">
   <ul class="pricing-table">

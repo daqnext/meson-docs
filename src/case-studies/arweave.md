@@ -22,7 +22,7 @@ Using an origin server without a CDN means that each Internet request must retur
 
 ✅ **Meson dCDN store (cache) Arweave in strategic locations in order to take the load off of Arweave Gateway**
 
-By moving static assets like images, videos and audios (and potentially other content) as close as possible to the requesting meson node, an meson node cache is able to reduce the amount of time it takes for a Arweave resource to load.
+By moving static assets like images, videos and audio (and potentially other content) as close as possible to the requesting meson node, a meson node cache is able to reduce the amount of time it takes for an Arweave resource to load.
 
 ✅ **Ability to easily retrieve Arweave content**
 

@@ -14,7 +14,7 @@ It is a bandwidth trading platform built on blockchain. We gather the idle bandw
 
 We don't recommend personal computers' users to install Meson yet. It is a rigmarole.
 
-## How to prevent the scenario where terminal users used IP pools to fake a large amount of access requests and maliciously earn tokens?
+## How to prevent the scenario where terminal users use IP pools to fake a large amount of access requests and maliciously earn tokens?
 
 Our token economy is a bandwidth renting model which will not incentivize usage.
 
@@ -61,7 +61,7 @@ NO.
 
 A very important reason why they are currently test tokens is to make sure everything goes smoothly step by step. You don't have to exchange your test tokens and this is not even recommended if you care much about the gas fee. However, if you would like to save your test tokens on some blockchain to keep them in another way, doing the exchange to Ethereum Network would be a nice option for you.
 
-## Can I trade(transfer) my test tokens after exchanging them to Ethereum?
+## Can I trade(transfer) my test tokens after exchanging them for Ethereum?
 
 Not yet.
 

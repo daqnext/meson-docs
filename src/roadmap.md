@@ -14,10 +14,10 @@
         </el-card>
         <el-card>
             <h4>Launch the Testnet-2.5</h4>
-            <p>Decouple the structure between storage and retrieval, develop the architecture to support all kinds of origin URL based on HTTP302.
-            Support the m3u8 standard to power the video and livestreaming platform (e.g. hotcat.live).</p>
+            <p>Decouple the structure between storage and retrieval, and develop the architecture to support all kinds of origin URLs based on HTTP302.
+            Support the m3u8 standard to power the video and live streaming platform (e.g. hotcat.live).</p>
             <p>Deploy the testnet token mapping contract and add Meson Improvement Proposals(<a href="https://github.com/daqnext/MIP">MIPs</a>).
-            Users can join the governance for the network.</p>
+            Users can join the governance of the network.</p>
             <p>Target early adopters.</p>
             <img src="@source/images/roadmap/node-stats.png">
         </el-card>
