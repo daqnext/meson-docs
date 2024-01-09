@@ -96,10 +96,6 @@ module.exports = {
                     link: 'https://meson.network/',
                 },
                 {
-                    text: 'Grants',
-                    link: '/meson-grants.md',
-                },
-                {
                     text: '3.0-Explorer',
                     link: 'https://explorer.meson.network:1984/'
                 },
@@ -109,10 +105,6 @@ module.exports = {
                         {
                             text: 'Whitepaper',
                             link: 'https://docs.meson.network/Meson-Network-Whitepaper-v1.6.pdf'
-                        },
-                        {
-                            text: 'API',
-                            link: '/api.md'
                         },
                         {
                             text: 'GitHub',
@@ -125,14 +117,6 @@ module.exports = {
                         {
                             text: 'Media Kit',
                             link: 'https://github.com/daqnext/brand-kit'
-                        },
-                        {
-                            text: 'Changelog',
-                            link: '/changelog/',
-                        },
-                        {
-                            text: '🧱 Glossary',
-                            link: '/glossary.md',
                         },
                     ]
                 },
@@ -183,59 +167,17 @@ module.exports = {
                 '/': [
                     {
                         text: '👋 Guide',
-                        collapsible: true,
                         link: '/README.md',
-                        children: [
-                            '/README.md',
-                            '/meson-token.md',
-                            '/bandwidth-marketplace.md',
-                            '/roadmap.md',
-                            '/partnership.md',
-                        ],
                     },
                     {
-                        text: '🚀 Run Meson Nodes',
+                        text: '🐢 $MSN',
                         collapsible: true,
-                        link: '/nodes/README.md',
-                        children: [
-                            '/nodes/README.md',
-                            '/nodes/run-meson-nodes.md',
-                            '/nodes/run-meson-arm-nodes.md',
-                            '/msn-to-goerlieth.md',
-                        ],
+                        link: '/meson-token.md',
                     },
                     {
-                        text: '⚒️ Use Meson Network',
+                        text: '🚀 Roadmap',
                         collapsible: true,
-                        link: '/using/README.md',
-                        children: [
-                            '/using/README.md',
-                            '/using/meson-enhances-arweave.md',
-                            '/using/meson-enhances-wordpress.md',
-                            '/using/meson-enhances-jamstack.md',
-                            '/using/Meson-enhances-lighthouse-storage.md',
-                        ],
-                    },
-                    {
-                        text: '🌟 Meson Cloud',
-                        collapsible: true,
-                        link: '/mcloud/README.md',
-                        children: [
-                            '/mcloud/README.md',
-                            '/mcloud/gatewayx.md',
-                        ],
-                    },
-                    {
-                        text: '🔆 Case Studies',
-                        collapsible: true,
-                        children: [
-                            '/case-studies/arweave.md',
-                        ],
-                    },
-                    {
-                        text: '🌀 Open Source',
-                        collapsible: true,
-                        link: '/opensource.md',
+                        link: '/roadmap.md',
                     },
                     {
                         text: '⛰️ El Camino Real',
@@ -243,14 +185,9 @@ module.exports = {
                         link: '/community.md',
                     },
                     {
-                        text: '🌍 Pricing',
+                        text: '☀️ Partnership',
                         collapsible: true,
-                        link: '/pricing.md',
-                    },
-                    {
-                        text: '🌱 FAQ ',
-                        collapsible: true,
-                        link: '/faq.md',
+                        link: '/partnership.md',
                     },
                 ],
             },

@@ -23,9 +23,59 @@ Extended Reading:
 - [Explore Data Center Carbon Protocol](https://medium.com/meson-network/explore-data-center-carbon-protocol-d1833ef03a68)
 - [Decentralized Infrastructure in Web3](https://medium.com/meson-network/web3-decentralized-infrastructure-b919cd1d5c48)
 
+## Meson Products
+
+<div class="grid grid-apps">
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/gatewayx.svg">
+        </span>
+        <span class="description">
+            <h4>CDN & GatewayX</h4>
+            <p>Decentralized infrastructure based on meson nodes</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://dashboard.meson.network/">Start</a>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://gatewayx.meson.network/">Docs</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/gaganode.svg">
+        </span>
+        <span class="description">
+            <h4>GaGaNode</h4>
+            <p>Next-generation decentralized edge cloud for all platforms</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://gaganode.com/">Start</a>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://docs.gaganode.com/">Docs</a>
+        </span>
+    </span>
+    <span class="eco-app">
+        <span class="banner">
+            <img src="./images/ipcola.svg">
+        </span>
+        <span class="description">
+            <h4>IPCola</h4>
+            <p>Infrastructure for bigdata and intelligence based on millions of gaga</p>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://ipcola.com/">Start</a>
+        </span>
+        <span class="link">
+            <a target="_blank" href="https://docs.ipcola.com/">Docs</a>
+        </span>
+    </span>
+</div>
+
 ## How Meson Network Works
 
-![](./images/system2.png)
+![](./images/system3.png)
 
 Extended Version: [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
 <br />
@@ -44,191 +94,3 @@ Or you can follow [Twitter](https://twitter.com/NetworkMeson) and [Medium](https
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/daqnext?style=social)](https://github.com/daqnext) [![Discord](https://img.shields.io/discord/784251111678148608?label=Discord&logo=discord&style=social)](https://discord.gg/invite/z6YfSHDkmS) [![Twitter Follow](https://img.shields.io/twitter/follow/NetworkMeson?style=social)](https://twitter.com/NetworkMeson) [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUhcyQzhZqIcrsoG1zy4tDQ?style=social)](https://www.youtube.com/c/MesonNetwork)
 
-## Ecosystem
-
-### Meson Partners
-
-Feel free to submit yours in Let us know!
-
-<div class="grid grid-apps">
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/arweave.svg">
-        </span>
-        <span class="description">
-            <h4>Arweave</h4>
-            <p>Meson Network supports store data, permanently.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://www.arweave.org/?utm_source=mesonnetwork">Open Arweave</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/mask.svg">
-        </span>
-        <span class="description">
-            <h4>Mask</h4>
-            <p>Meson Network supports bridge from Web2.0 to Web3.0.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://mask.io/?utm_source=mesonnetwork">Open Mask</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/matters.svg">
-        </span>
-        <span class="description">
-            <h4>Matters</h4>
-            <p>Meson Network supports the next decentralized content ecosystem.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://matters.news/?utm_source=mesonnetwork">Open Matters</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/rss3.svg">
-        </span>
-        <span class="description">
-            <h4>RSS3</h4>
-            <p>Meson Network supports the open information syndication protocol in Web3.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://rss3.io/?utm_source=mesonnetwork">Open RSS3</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/okc.svg">
-        </span>
-        <span class="description">
-            <h4>OKX Chain</h4>
-            <p>Bringing dCDN to the Forefront of Web3.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://www.okx.com/okc/?utm_source=mesonnetwork">Open OKX Chain</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/cyberconnect.svg">
-        </span>
-        <span class="description">
-            <h4>Cyberconnect</h4>
-            <p>Meson Network supports the social graph in Web3.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://cyberconnect.me/?utm_source=mesonnetwork">Open Cyberconnect</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/phantom.svg">
-        </span>
-        <span class="description">
-            <h4>Phantom</h4>
-            <p>A friendly Solana wallet built for DeFi & NFTs.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://phantom.app/?utm_source=mesonnetwork">Open Phantom</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/koii.svg">
-        </span>
-        <span class="description">
-            <h4>Koii Network</h4>
-            <p>Meson Network supports decentralized publishing protocol and Web3 library.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://koii.network/?utm_source=mesonnetwork">Open Koii Network</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/crust.svg">
-        </span>
-        <span class="description">
-            <h4>Crust Network</h4>
-            <p>Meson Network supports Web3 industry a turn key solution.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://crust.network/?utm_source=mesonnetwork">Open Crust Network</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/showme.svg">
-        </span>
-        <span class="description">
-            <h4>ShowMe</h4>
-            <p>Meson Network supports NFT social subscription platform in Web3.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://showme.fan/?utm_source=mesonnetwork">Open ShowMe</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/permacast.svg">
-        </span>
-        <span class="description">
-            <h4>Permacast</h4>
-            <p>Meson Network supports Web3 Podcast hosting platform.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://permacast.dev/?utm_source=mesonnetwork">Open Permacast</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/ultiverse.svg">
-        </span>
-        <span class="description">
-            <h4>Ultiverse</h4>
-            <p>Meson Network supports the social gaming metaverse in Web3.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://www.ultiverse.io/?utm_source=mesonnetwork">Open Ultiverse</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/port3.svg">
-        </span>
-        <span class="description">
-            <h4>Port3</h4>
-            <p>Meson Network supports the Gateway to Web3 Social Graph.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://www.port3.io/?utm_source=mesonnetwork">Open Port3</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/decentland.svg">
-        </span>
-        <span class="description">
-            <h4>Decent.Land</h4>
-            <p>Meson Network supports the Social infrastructure for Web3.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://www.decent.land/?utm_source=mesonnetwork">Open Decent.Land</a>
-        </span>
-    </span>
-    <span class="eco-app">
-        <span class="banner">
-            <img src="./images/sponsors/partners/nftscan.svg">
-        </span>
-        <span class="description">
-            <h4>NFTSCAN</h4>
-            <p>Provide users with a simple and efficient NFT retrieval service.</p>
-        </span>
-        <span class="link">
-            <a target="_blank" href="https://www.nftscan.com/?utm_source=mesonnetwork">Open NFTSCAN</a>
-        </span>
-    </span>
-</div>

@@ -1,4 +1,4 @@
-# Partnership
+# ☀️ Partnership
 
 ## Backers
 
@@ -26,6 +26,7 @@
     <span><img alt="Kernel Ventures" src="./images/sponsors/kernel.svg"></span>
     <span><img alt="Shima Capital" src="./images/sponsors/shima.svg"></span>
     <span><img alt="LayerX Capital" src="./images/sponsors/layerx.svg"></span>
+    <span><img alt="Presto Labs" src="./images/sponsors/presto.svg"></span>
     <span><img alt="Digital Renaisance" src="./images/sponsors/digitalrenaisance.svg"></span>
     <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/maverickglobalventures.png"></span>
     <span><img alt="Avstar Capital" src="./images/sponsors/avstar.png"></span>
@@ -38,7 +39,7 @@
     <span><img alt="Josh Hannah" src="./images/sponsors/joshhannah.png"></span>
     <span><img alt="Alex Rusnak" src="./images/sponsors/alexrusnak.png"></span>
     <span><img alt="Jack Herrick" src="./images/sponsors/jackherrick.png"></span>
-    <span><img alt="Meltem Demiror" src="./images/sponsors/meltemdemiror.png"></span>
+    <span><img alt="Meltem Demirors" src="./images/sponsors/meltemdemiror.png"></span>
     <span><img alt="Shixing Mao" src="./images/sponsors/shixingmao.png"></span>
 </p>
 
