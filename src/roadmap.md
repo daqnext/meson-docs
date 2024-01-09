@@ -26,7 +26,7 @@
         <el-card>
             <h4>Release the token model documentation</h4>
             <p><a href="https://blog.meson.network/blog/2022-12-07-tokenomics-beta1">Tokenomics Beta1</a></p>
-            <img src="@source/images/roadmap/tokenomics-beta1.jpeg">
+            <img src="@source/images/roadmap/tokenomics-beta1-01.png">
         </el-card>
         <el-card>
             <h4>Ship the production version</h4>
@@ -36,7 +36,7 @@
         <el-card>
             <h4>Launch Gaganode</h4>
             <p>Residential bandwidth aggregator: <a href="https://www.gaganode.com/">https://www.gaganode.com/</a></p>
-            <img src="@source/images/roadmap/gaganode-running.png">
+            <img src="@source/images/roadmap/gaganode-running-01.png">
         </el-card>
         <el-card>
             <h4>Launch IPCola</h4>

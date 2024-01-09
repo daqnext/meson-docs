@@ -28,7 +28,7 @@ Meson allows its Token holders to vote on development or modification of paramet
 - Partners: 6,000,000 MSN (6%)
 - Test-Net Mapping: 1,000,000 MSN (1%)
 
-![](./images/token/meson-token-metrics.png)
+![](./images/token/tokenomics-01.svg)
 
 ## Token Functions
 
@@ -41,13 +41,11 @@ Meson allows its Token holders to vote on development or modification of paramet
 
 All token inflation comes from mining rewards. The first-year mining inflation rate is 5%. The inflation rate drops 0.5% each year.
 
-![inflation rate vs time](./images/token/inflation-rate-vs-time.png)
+![inflation rate vs time](./images/token/inflation-rate-vs-time-01.svg)
 
 ## Token Circulation
 
 Miners will get MSNs as a reward while providing an idle server to meson.network. Miners will reach full mining speed only if they stack MSNs accordingly. Clients send payments to meson.network while using Meson service. All MSNs can be exchanged at CEX or DEX.
-
-![](./images/token/meson-token-circulation.png)
 
 ## GoerliETH Testnet Token Contract(MSN)
 

@@ -75,7 +75,7 @@ Extended Reading:
 
 ## How Meson Network Works
 
-![](./images/system3.png)
+![](./images/system4.svg)
 
 Extended Version: [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
 <br />

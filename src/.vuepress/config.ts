@@ -12,16 +12,6 @@ module.exports = {
         title: 'Meson Network',
         description: description,
     },
-    '/ru/': {
-        lang: 'ru',
-        title: 'Meson Network',
-        description: 'description',
-    },
-    '/tr/': {
-        lang: 'tr',
-        title: 'Meson Network',
-        description: 'description',
-    },
     },
 
     head: [
