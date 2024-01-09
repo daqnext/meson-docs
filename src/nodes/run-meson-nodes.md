@@ -8,6 +8,22 @@
 - Opening the port of the firewall (default: 443, support for custom server ports)
 - Providing enough Storage (default minimum requirements: 20G)
 
+## Deploy to VPS
+
+For those who do not have stable network/electricity conditions at home, we recommend using VPS to deploy Meson Node.
+
+Minimum Requirements:
+- Operating System: Ubuntu 22.04 LTS (recommended)
+- CPU: 2 cores 
+- RAM: 4GB 
+- Storage: 20GB
+
+Recommended hosting providers: 
+- [Contabo](https://contabo.com/en/vps/)
+- [AWS](https://aws.amazon.com/)
+- [OVH](https://www.ovh.com/world/)
+- [Leaseweb](https://www.leaseweb.us/cloud/virtual-server) 
+
 ## Register
 
 [https://dashboard.meson.network/register](https://dashboard.meson.network/register)
@@ -17,6 +33,11 @@
 Click the button “Nodes” and you can find out your token and installation tutorial in this page
 
 ![](./images/run-meson-node-02.png)
+
+
+## How to connect to a Linux machine:
+
+To remotely connect to a Linux machine, you need to use a terminal emulator. We recommend using [Terminus](https://termius.com/) which is an easy to use multiplatform SSH client even available on Android/iOS.
 
 ## How to Install Meson on **Linux ?**
 
