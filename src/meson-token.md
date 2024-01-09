@@ -1,4 +1,4 @@
-# $MSN 🐢
+# $MSN 🪙
 
 MSN is Meson.Network's incentive and governance token. It has four primary functions:
 

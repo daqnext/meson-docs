@@ -160,7 +160,7 @@ module.exports = {
                         link: '/README.md',
                     },
                     {
-                        text: '🐢 $MSN',
+                        text: '🪙 $MSN',
                         collapsible: true,
                         link: '/meson-token.md',
                     },
