@@ -156,11 +156,29 @@ module.exports = {
                 ],
                 '/': [
                     {
-                        text: '👋 Guide',
+                        text: '📖 Guide',
+                        collapsible: true,
                         link: '/README.md',
                     },
                     {
-                        text: '🪩 $MSN',
+                        text: '⚓ Products',
+                        children: [
+                            {
+                                text: 'CDN & GatewayX',
+                                link: 'https://dashboard.meson.network/'
+                            },
+                            {
+                                text: 'GaGaNode',
+                                link: 'https://gaganode.com/'
+                            },
+                            {
+                                text: 'IPCola',
+                                link: 'https://ipcola.com/'
+                            },
+                        ],
+                    },
+                    {
+                        text: '💰 Tokenomics',
                         collapsible: true,
                         link: '/meson-token.md',
                     },
@@ -170,12 +188,12 @@ module.exports = {
                         link: '/roadmap.md',
                     },
                     {
-                        text: '⛰️ El Camino Real',
+                        text: '📅 Events',
                         collapsible: true,
                         link: '/community.md',
                     },
                     {
-                        text: '☀️ Partnership',
+                        text: '🤝🏽 Partnership',
                         collapsible: true,
                         link: '/partnership.md',
                     },

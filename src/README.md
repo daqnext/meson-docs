@@ -7,21 +7,15 @@ sidebarDepth: 1
 
 ![](./images/meson-center.png)
 
-## What Meson Network Is
+## What is Meson Network?
 
-Meson Network is committed to creating an efficient bandwidth marketplace on Web3, using a blockchain protocol model to replace the traditional labor-based sales models, consolidating and monetizing idle bandwidth from long-tail users at a low cost. Meson Network is the foundation of data transmission for decentralized storage, computation, and the emerging Web3 Dapp ecosystem.
+Meson Network is revolutionizing Web3 by establishing a streamlined bandwidth marketplace through a blockchain protocol, replacing antiquated labor-based sales models. Our innovative approach consolidates and monetizes idle bandwidth from long-tail users at an unprecedented low cost, serving as the cornerstone for decentralized storage, computation, and the burgeoning Web3 Dapp ecosystem.
 
-Meson is trying to create the world’s largest bandwidth marketplace in the future. Here, users can exchange their unused bandwidth resources with Meson for tokens, and those who need bandwidth will come to Meson’s market to borrow bandwidth anywhere in the world. To achieve this goal, we cannot simply use the direct sales model.
+Our vision extends beyond the present, aiming to forge the world's largest bandwidth marketplace. Meson envisions a future where users effortlessly exchange their surplus bandwidth for tokens, while those in need can access bandwidth globally within Meson's marketplace. Unlike conventional sales models, Meson rejects the top-down approach favored by existing cloud vendors. Instead, we champion an open bandwidth exchange, providing an alternative to address the evolving demands of the dispersed long-tail market.
 
-Existing cloud vendors rely more on a sales model, a top-down model, for aggregation of resources. For example, if you want to open a new local market, you need to recruit local people, and as the market coverage expands, the number of people recruited rises linearly or even exponentially. This model worked very well for the last 10–20 years because the sales model led to people targeting medium to large accounts, which can provide high output per account. But now, the situation is that a lot of resources are slowly dispersing to the long-tail market where the demand is much more fragmented, leading to much lesser output per account. However, demand from the long-tail market is growing stronger than the large account market. To capture the long tail market demand, there needs to be a new alternative to the direct sales model. The answer is open bandwidth exchange, done through Meson Network.
+Traditional sales models, effective in the past, struggle with the growing fragmentation of demand in the long-tail market. Meson Network responds with an alternative - a bottom-up integration of resources. Users can seamlessly contribute or access resources in our marketplace following standardized protocols, eliminating the need for human intermediaries. This groundbreaking model minimizes human interactions and expeditiously scales through free-market mechanisms.
 
-Meson can integrate resources from the bottom up. Users do not need to care about how to deal with people, they only need to upload or access the resources in the marketplace according to standards and protocols. The advantage of this new model is to remove human interaction in the system as much as possible, and to quickly achieve scale through free market mechanisms. Using the human sales model, if we are very lucky, we might create another Amazon. However, using the protocol model, we don’t need to define the composition of roles at both ends of the market. Maybe a boring user connects his Starlink network to Meson; maybe a large number of developers connect different Telecoms around the world to Meson; maybe in the future, Meson’s market will cover the resources of cloud vendors such as Amazon and Google, but we are just a team of less than 100 people at that point.
-
-Extended Reading:
-
-- [Meson Network 2022](https://medium.com/meson-network/meson-network-2022-ec246bae8fcc)
-- [Explore Data Center Carbon Protocol](https://medium.com/meson-network/explore-data-center-carbon-protocol-d1833ef03a68)
-- [Decentralized Infrastructure in Web3](https://medium.com/meson-network/web3-decentralized-infrastructure-b919cd1d5c48)
+In contrast to the traditional human-centric sales model, Meson's protocol model offers flexibility and scalability without defining rigid roles. Whether it's a casual user connecting their Starlink network or numerous developers linking diverse Telecoms globally, Meson accommodates diverse contributions. Looking ahead, Meson aspires to encompass resources from major cloud vendors like Amazon and Google, envisioning a future where our marketplace extends its reach, all driven by a dedicated team of less than 100 individuals. Join Meson Network in reshaping the future of decentralized connectivity.
 
 ## Meson Products
 
