@@ -197,6 +197,27 @@ module.exports = {
                         collapsible: true,
                         link: '/partnership.md',
                     },
+                    {
+                        text: '📰 Social Media',
+                        children: [
+                            {
+                                text: 'Twitter',
+                                link: 'https://twitter.com/NetworkMeson'
+                            },
+                            {
+                                text: 'Discord',
+                                link: 'https://discord.gg/z6YfSHDkmS'
+                            },
+                            {
+                                text: 'Telegram',
+                                link: 'https://t.me/mesonnetwork'
+                            },
+                            {
+                                text: 'Medium',
+                                link: 'https://medium.com/meson-network'
+                            },
+                        ],
+                    },
                 ],
             },
             },
