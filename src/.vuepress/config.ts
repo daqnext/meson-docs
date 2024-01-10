@@ -161,7 +161,7 @@ module.exports = {
                         link: '/README.md',
                     },
                     {
-                        text: '⚓ Products',
+                        text: '🛩️ Products',
                         children: [
                             {
                                 text: 'CDN & GatewayX',
