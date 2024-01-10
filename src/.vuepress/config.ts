@@ -162,6 +162,7 @@ module.exports = {
                     },
                     {
                         text: '🛩️ Products',
+                        link: '/products.md',
                         children: [
                             {
                                 text: 'CDN & GatewayX',
@@ -199,6 +200,7 @@ module.exports = {
                     },
                     {
                         text: '📰 Social Media',
+                        link: '/socialmedia.md',
                         children: [
                             {
                                 text: 'Twitter',
