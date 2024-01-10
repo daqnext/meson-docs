@@ -1,4 +1,4 @@
-const { description } = require('../../package')
+const { description } = require('../../package');
 
 // https://github.com/vuepress/vuepress-next/blob/98b7a57856c7b81a82291642e3cf7218699f3523/packages/%40vuepress/markdown/src/utils/slugify.ts
 const rControl = /[\u0000-\u001f]/g
@@ -160,7 +160,7 @@ module.exports = {
                         link: '/README.md',
                     },
                     {
-                        text: '🪙 $MSN',
+                        text: '🪩 $MSN',
                         collapsible: true,
                         link: '/meson-token.md',
                     },

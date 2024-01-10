@@ -57,13 +57,18 @@
 
 <p class="grid">
     <span><img alt="bsc" src="./images/sponsors/partners/bsc.svg"></span>
+    <span><img alt="arb" src="./images/sponsors/partners/arb.svg"></span>
     <span><img alt="filecoin" src="./images/sponsors/partners/filecoin.svg"></span>
     <span><img alt="Arweave" src="./images/sponsors/arweave.svg"></span>
     <span><img alt="okc" src="./images/sponsors/partners/okc.svg"></span>
     <span><img alt="phantom" src="./images/sponsors/partners/phantom.svg"></span>
     <span><img alt="Mask Network" src="./images/sponsors/mask.svg"></span>
     <span><img alt="Cyberconnect" src="./images/sponsors/partners/cyberconnect.svg"></span>
+    <span><img alt="klaytn" src="./images/sponsors/partners/klaytn.svg"></span>
     <span><img alt="Matters" src="./images/sponsors/partners/matters.svg"></span>
+    <span><img alt="push" src="./images/sponsors/partners/push.svg"></span>
+    <span><img alt="piknik" src="./images/sponsors/partners/piknik.svg"></span>
+    <span><img alt="push" src="./images/sponsors/partners/push.svg"></span>
     <span><img alt="RSS3" src="./images/sponsors/partners/rss3.svg"></span>
     <span><img alt="Cyberconnect" src="./images/sponsors/partners/lighthouse.svg"></span>
     <span><img alt="Crust Network" src="./images/sponsors/partners/crust.svg"></span>
