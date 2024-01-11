@@ -68,7 +68,7 @@
     <span><img alt="Matters" src="./images/sponsors/partners/matters.svg"></span>
     <span><img alt="push" src="./images/sponsors/partners/push.svg"></span>
     <span><img alt="piknik" src="./images/sponsors/partners/piknik.svg"></span>
-    <span><img alt="push" src="./images/sponsors/partners/push.svg"></span>
+    <span><img alt="analog" src="./images/sponsors/partners/analog.svg"></span>
     <span><img alt="RSS3" src="./images/sponsors/partners/rss3.svg"></span>
     <span><img alt="Cyberconnect" src="./images/sponsors/partners/lighthouse.svg"></span>
     <span><img alt="Crust Network" src="./images/sponsors/partners/crust.svg"></span>
