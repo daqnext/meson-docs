@@ -8,7 +8,7 @@ MSN is Meson.Network's incentive and governance token. It has four primary funct
 - Protocol governance
 - The tokens are distributed to network terminals (miners) as rewards for providing server resources.
 
-Currently, there are no benefits for staking the tokens as the functions of transfer for Meson Test Tokens on Ethereum are locked. Users of the services will pay in MSNs to get additional bandwidth. These tokens are then rewarded to miners through the repurchase and destruction of tokens.
+Currently, there are no benefits for staking the tokens as the functions of transfer for Meson Test Tokens on Ethereum are locked. Users of the services will pay in MSN to get additional bandwidth. These tokens are then rewarded to miners through the repurchase and destruction of tokens.
 
 Meson allows its Token holders to vote on development or modification of parameters of the protocol.
 
@@ -33,9 +33,9 @@ Meson allows its Token holders to vote on development or modification of paramet
 ## Token Functions
 
 - Miners get Token rewards after joining the meson network and devoting their server resources.
-- Miners can stake MSNs to accelerate the mining efficiency.
-- Clients use MSNs to accelerate any internet media resource e.g file/images/video/streaming/website etc
-- Anyone can use MSNs for election and voting of on-chain governance/proposals/etc.
+- Miners can stake MSN to accelerate the mining efficiency.
+- Clients use MSN to accelerate any internet media resource e.g file/images/video/streaming/website etc
+- Anyone can use MSN for election and voting of on-chain governance/proposals/etc.
 
 ## Total Token Inflation
 
@@ -45,7 +45,7 @@ All token inflation comes from mining rewards. The first-year mining inflation r
 
 ## Token Circulation
 
-Miners will get MSNs as a reward while providing an idle server to meson.network. Miners will reach full mining speed only if they stack MSNs accordingly. Clients send payments to meson.network while using Meson service. All MSNs can be exchanged at CEX or DEX.
+Miners will get MSN as a reward while providing an idle server to meson.network. Miners will reach full mining speed only if they stack MSN accordingly. Clients send payments to meson.network while using Meson service. All MSN can be exchanged at CEX or DEX.
 
 ## GoerliETH Testnet Token Contract(MSN)
 
