@@ -14,7 +14,7 @@ Meson allows its Token holders to vote on development or modification of paramet
 
 ## Token Details
 
-- Token Ticker: Meson(MSN)
+- Token Ticker: MSN
 - Initial Supply: 100,000,000 MSN
 
 ## Token Distribution
