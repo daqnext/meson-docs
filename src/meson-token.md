@@ -19,16 +19,15 @@ Meson allows its Token holders to vote on development or modification of paramet
 
 ## Token Distribution
 
-- Seed Token Sale: 6,000,000 MSN (6%)
-- Private Token Sale: 22,000,000 MSN (22%)
-- Public Token Sale: 10,000,000 MSN (10%)
-- Community & Ecosystem: 20,000,000 MSN (20%)
+- Private Token Sale: 26,000,000 MSN (26%)
+- Public Token Sale: 6,000,000 MSN (6%)
+- Community & Ecosystem: 26,000,000 MSN (26%)
 - Foundation Reservation: 20,000,000 MSN (20%)
 - Technical Team: 15,000,000 MSN (15%)
 - Partners: 6,000,000 MSN (6%)
 - Test-Net Mapping: 1,000,000 MSN (1%)
 
-![](./images/token/tokenomics-01.svg)
+![](./images/token/tokenomics-02.svg)
 
 ## Token Functions
 
