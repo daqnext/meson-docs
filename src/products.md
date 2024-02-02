@@ -50,7 +50,7 @@
 
 ## How Meson Network Works
 
-![](./images/system4.svg)
+![](./images/system5.svg)
 
 Extended Version: [How Meson Network Works (Official Video)](https://www.youtube.com/watch?v=3Dgwse5mWuA)
 <br />

@@ -62,10 +62,10 @@ Miners will get MSN as a reward while providing an idle server to meson.network.
 
 ## Testnet Token Contract(MSN)
 
-Ethereum(Goerli) Contract Address: 0xc08c439c85bd3e65725d08c54fb6f2895436a649
-
-Ethereum(Goerli) Contract: [Source Code](https://goerli.etherscan.io/token/0xc08c439c85bd3e65725d08c54fb6f2895436a649)
-
 Ethereum(Sepolia) Contract Address: 0xde939833Ed21FE3833d3d9E545dC7Faa9F161D06
 
 Ethereum(Sepolia) Contract: [Source Code](https://sepolia.etherscan.io/token/0xde939833Ed21FE3833d3d9E545dC7Faa9F161D06)
+
+Ethereum(Goerli) Contract Address: 0xc08c439c85bd3e65725d08c54fb6f2895436a649
+
+Ethereum(Goerli) Contract: [Source Code](https://goerli.etherscan.io/token/0xc08c439c85bd3e65725d08c54fb6f2895436a649)
