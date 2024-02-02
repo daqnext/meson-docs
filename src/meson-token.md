@@ -17,6 +17,20 @@ Meson allows its Token holders to vote on development or modification of paramet
 - Token Ticker: MSN
 - Initial Supply: 100,000,000 MSN
 
+## Initial Token Launch
+
+- 1.Total initial token supply: 100 million tokens
+- 2.Initial supported chains:
+  - 2.1 Ethereum Mainnet
+  - 2.2 Arbitrum
+- 3.Miners have the option to choose either chain 2.1 or 2.2 for token claiming.
+- 4.Initial airdrops (if exist) will be distributed on Arbitrum chain.
+- 5.Tokens from the investors and public sale will be distributed on Ethereum Mainnet.
+
+::: tip 📝 Note
+Meson may expand to additional chains in the future, but the summation of token supply across different chains will remain constant. For instance, if {x number} tokens are burned on chain "A," an equivalent {x number} amount will be minted on chain "B."
+:::
+
 ## Token Distribution
 
 - Private Token Sale: 26,000,000 MSN (26%)
