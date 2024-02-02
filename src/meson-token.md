@@ -60,8 +60,12 @@ All token inflation comes from mining rewards. The first-year mining inflation r
 
 Miners will get MSN as a reward while providing an idle server to meson.network. Miners will reach full mining speed only if they stack MSN accordingly. Clients send payments to meson.network while using Meson service. All MSN can be exchanged at CEX or DEX.
 
-## GoerliETH Testnet Token Contract(MSN)
+## Testnet Token Contract(MSN)
 
 Ethereum(Goerli) Contract Address: 0xc08c439c85bd3e65725d08c54fb6f2895436a649
 
 Ethereum(Goerli) Contract: [Source Code](https://goerli.etherscan.io/token/0xc08c439c85bd3e65725d08c54fb6f2895436a649)
+
+Ethereum(Sepolia) Contract Address: 0xde939833Ed21FE3833d3d9E545dC7Faa9F161D06
+
+Ethereum(Sepolia) Contract: [Source Code](https://sepolia.etherscan.io/token/0xde939833Ed21FE3833d3d9E545dC7Faa9F161D06)
