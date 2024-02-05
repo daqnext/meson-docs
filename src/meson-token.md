@@ -24,7 +24,7 @@ Meson allows its Token holders to vote on development or modification of paramet
   - 2.1 Ethereum Mainnet
   - 2.2 Arbitrum
 - 3.Miners have the option to choose either chain 2.1 or 2.2 for token claiming.
-- 4.Initial airdrops (if exist) will be distributed on Arbitrum chain.
+- 4.Initial airdrops (if exist) will be distributed on Arbitrum chain or Ethereum Mainnet chain.
 - 5.Tokens from the investors and public sale will be distributed on Ethereum Mainnet.
 
 ::: tip 📝 Note
