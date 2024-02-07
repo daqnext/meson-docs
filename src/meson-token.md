@@ -45,10 +45,10 @@ Meson may expand to additional chains in the future, but the summation of token 
 
 ## Token Functions
 
-- Miners get Token rewards after joining the meson network and devoting their server resources.
-- Miners can stake MSN to accelerate the mining efficiency.
-- Clients use MSN to accelerate any internet media resource e.g file/images/video/streaming/website etc
-- Anyone can use MSN for election and voting of on-chain governance/proposals/etc.
+- MSN tokens empower users to access bandwidth and big-data services previously exclusive to major corporations such as Google and Akamai. 1.1 The bandwidth service accelerates internet content delivery, encompassing webpages, videos, streaming content, files, and more. 1.2 The big-data service emerges as a pivotal success factor across diverse industries, including online advertising, social media, marketing, finance, and beyond.
+- MSN tokens are granted as rewards to miners who contribute server resources to the Meson network.
+- MSN tokens, when staked by miners, lead to increased efficiency in mining operations.
+- MSN tokens are used by network participants for engaging in governance processes, such as voting in elections and making decisions on on-chain proposals.
 
 ## Total Token Inflation
 
