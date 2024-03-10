@@ -60,6 +60,21 @@ All token inflation comes from mining rewards. The first-year mining inflation r
 
 Miners will get MSN as a reward while providing an idle server to meson.network. Miners will reach full mining speed only if they stack MSN accordingly. Clients send payments to meson.network while using Meson service. All MSN can be exchanged at CEX or DEX.
 
+## Core Team Allocation
+
+“dev team members” is defined the same as “core team members” which includes sub-teams below:
+
+- tech team (developers who contribute to meson.network)
+- marketing team
+- production team
+- operation team
+- advisors
+- advocate
+
+Initially, all tokens are assigned to the tech team, subsequently redistributed to the respective sub-teams.
+
+The vesting schedule of the 2 ~ 6 sub-teams is longer compared with the “tech team”.
+
 ## Testnet Token Contract(MSN)
 
 Ethereum(Sepolia) Contract Address: 0xde939833Ed21FE3833d3d9E545dC7Faa9F161D06
