@@ -64,21 +64,21 @@ Miners will get MSN as a reward while providing an idle server to meson.network.
 
 “development team members” or “developers” is defined the same as “core team members” which includes sub-teams below:
 
-- tech team (developers who contribute code to meson.network)
-- marketing team
-- production team
-- operation team
-- advisors
-- advocate
+1. tech team (developers who contribute code to meson.network)
+2. marketing team
+3. production team
+4. operation team
+5. advisors
+6. advocate
 
 Initially, all tokens are assigned to the tech team, subsequently redistributed to the respective sub-teams.
 
 The vesting schedule of the 2 ~ 6 sub-teams is longer compared with the “tech team”.
 
 **Important !!!**:
-- The exact vesting schedule of tech team (sub-team 1 ) is already determined.
-- The exact vesting schedule of 2 ～ 6 sub-teams is not determined currently and Meson.network retains authority over determining the precise vesting schedule for these sub-teams.
-- Meson.network reserves the right to appoint who belongs to which team.
+1. The exact vesting schedule of tech team (sub-team 1 ) is already determined.
+2. The exact vesting schedule of 2 ～ 6 sub-teams is not determined currently and Meson.network retains authority over determining the precise vesting schedule for these sub-teams.
+3. Meson.network reserves the right to appoint who belongs to which team.
 
 ## Testnet Token Contract(MSN)
 
