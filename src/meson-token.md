@@ -33,15 +33,6 @@ Meson may expand to additional chains in the future, but the summation of token 
 
 ## Token Distribution
 
-- Private Token Sale: 26,000,000 MSN (26%)
-- Public Token Sale: 5,000,000 MSN (5%)
-- Ecosystem: 27,000,000 MSN (27%)
-- Foundation Reservation: 20,000,000 MSN (20%)
-- Technical Team: 15,000,000 MSN (15%)
-- Partners: 6,000,000 MSN (6%)
-- Test-Net Mapping: 1,000,000 MSN (1%)
-
-
 - Jumpstart: 0.80%
 - Airdrop: 2.20%
 - Public Sales: 5.00%
