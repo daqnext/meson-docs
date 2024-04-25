@@ -41,6 +41,16 @@ Meson may expand to additional chains in the future, but the summation of token 
 - Partners: 6,000,000 MSN (6%)
 - Test-Net Mapping: 1,000,000 MSN (1%)
 
+
+- Jumpstart: 0.80%
+- Airdrop: 2.20%
+- Public Sales: 5.00%
+- Partners: 6.00%
+- Technical Team: 15.00%
+- Foundation reserves: 20.00%
+- Ecosystem: 25.00%
+- Investors: 26.00%
+
 ![](./images/token/tokenomics-04.svg)
 
 ## Token Functions
