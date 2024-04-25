@@ -51,7 +51,7 @@ Meson may expand to additional chains in the future, but the summation of token 
 - Ecosystem: 25.00%
 - Investors: 26.00%
 
-![](./images/token/tokenomics-04.svg)
+![](./images/token/tokenomics-05.svg)
 
 ## Token Functions
 
