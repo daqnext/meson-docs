@@ -32,15 +32,6 @@
     <span><img alt="Avstar Capital" src="./images/sponsors/avstar.png"></span>
     <span><img alt="CERCLE D'ORIENT CAPITAL" src="./images/sponsors/cercledorient.png"></span>
     <span><img alt="Vespertine Capital" src="./images/sponsors/vespertine.png"></span>
-    <span><img alt="Xinjun Liang" src="./images/sponsors/xinjunliang.png"></span>
-    <span><img alt="Thomas Bailey" src="./images/sponsors/thomasbailey.png"></span>
-    <span><img alt="Suji Yan" src="./images/sponsors/sujiyan.png"></span>
-    <span><img alt="Sam Williams" src="./images/sponsors/samwilliams.png"></span>
-    <span><img alt="Josh Hannah" src="./images/sponsors/joshhannah.png"></span>
-    <span><img alt="Alex Rusnak" src="./images/sponsors/alexrusnak.png"></span>
-    <span><img alt="Jack Herrick" src="./images/sponsors/jackherrick.png"></span>
-    <span><img alt="Meltem Demirors" src="./images/sponsors/meltemdemiror.png"></span>
-    <span><img alt="Shixing Mao" src="./images/sponsors/shixingmao.png"></span>
 </p>
 
 ## Community
