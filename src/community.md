@@ -36,6 +36,8 @@
 ###  DePIN Summer / Mar 1, 2024
 
 ![](./images/community/events/depinsummer2024.jpeg)
+![](./images/community/events/depinsummer2024-1.jpeg)
+![](./images/community/events/depinsummer2024-2.png)
 
 [Twitter](https://x.com/NetworkMeson/status/1759621499584147896) | [LuMa](https://lu.ma/depinsummer)
 
