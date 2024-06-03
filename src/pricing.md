@@ -90,7 +90,7 @@ Meson 3.0 is a new generation of Meson Network which has lower requirements and 
         <li class="pricing-table-1__product">Products-Proxy</li>
         <li class="pricing-table-1__product">Residential IP Pool</li>
         <li class="pricing-table-1__product">Mixnet</li>
-        <li class="pricing-table-1__product">Video Convertion</li>
+        <li class="pricing-table-1__product">Video Conversion</li>
         <li class="pricing-table-1__product">Storage one-key Gateway</li>
         <li class="pricing-table-1__product">...</li>
       </ul>

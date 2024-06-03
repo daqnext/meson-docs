@@ -60,7 +60,7 @@ Also, there will be some reward adjustments for servers in different regions.
         <td><img src="./images/storage-score.svg" /></td>
     </tr>
     <tr>
-        <td>Minium Storage Requirement</td>
+        <td>Minimum Storage Requirement</td>
         <td>20GB</td>
     </tr>
     <tr>
