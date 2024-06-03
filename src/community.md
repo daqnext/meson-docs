@@ -27,6 +27,18 @@
 
 ## Events
 
+###  HashKey Global launches MESON ($MSN), igniting the AI & DePIN track / Apr 28, 2024
+
+![](./images/community/events/hashkey-04.jpeg)
+
+[Twitter](https://x.com/HashKey_Global/status/1784512910473187599)
+
+###  DePIN Summer / Mar 1, 2024
+
+![](./images/community/events/depinsummer2024.jpeg)
+
+[Twitter](https://x.com/NetworkMeson/status/1759621499584147896) | [LuMa](https://lu.ma/depinsummer)
+
 ###  BNB Chain Tech Community Call / Oct 17, 2023
 
 ![](./images/community/events/bnb-chain-tech-community-call.jpeg)
